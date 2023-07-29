@@ -18,7 +18,7 @@
   },
   "create_initial_prompt": {
     "label": "Crear instruccions inicials",
-    "desc": "Escriu instruccions inicials perquè Open Assistant provi de contestar missatges variats.",
+    "desc": "Escriu instruccions inicials perquè ራስ | rasGPT provi de contestar missatges variats.",
     "overview": "Crea un missatge per a inciar conversa amb l'assistent",
     "instruction": "Proporciona les instruccions inicials",
     "response_placeholder": "Escriu les instruccions aquí..."
@@ -44,38 +44,38 @@
   },
   "random": {
     "label": "Segur que tinc sort",
-    "desc": "Ajuda'ns a millorar Open Assistant començant amb una tasca aleatòria."
+    "desc": "Ajuda'ns a millorar ራስ | rasGPT començant amb una tasca aleatòria."
   },
   "rank_assistant_replies": {
     "label": "Ordenar respostes de l'assistent",
-    "desc": "Ordena respostes d'Open Assistant basant-te en la precisió i llegibilitat.",
+    "desc": "Ordena respostes d'ራስ | rasGPT basant-te en la precisió i llegibilitat.",
     "overview": "Donades les respostes següents de l'assistent, ordena-les de millor a pitjor, amb la primera sent la millor i l'última, la pitjor.",
     "unchanged_title": "Ordre sense canviar",
     "unchanged_message": "No has canviat l'ordre de les respostes. Segur que vols continuar?"
   },
   "rank_initial_prompts": {
     "label": "Ordenar instruccions inicials",
-    "desc": "Ordena instruccions a Open Assistant basant-te en la precisió i llegibilitat.",
+    "desc": "Ordena instruccions a ራስ | rasGPT basant-te en la precisió i llegibilitat.",
     "overview": "Donades les instruccions inicials següents, ordena-les de millor a pitjor, amb la primera sent la millor i l'última, la pitjor.",
     "unchanged_title": "Ordre sense canviar",
     "unchanged_message": "No has canviat l'ordre de les instruccions. Segur que vols continuar?"
   },
   "rank_user_replies": {
     "label": "Ordena respostes d'usuaris",
-    "desc": "Ajuda Open Assistant a millorar les seves respostes a converses amb altres usuaris.",
+    "desc": "Ajuda ራስ | rasGPT a millorar les seves respostes a converses amb altres usuaris.",
     "overview": "Donades les respostes d'usuaris següents, ordena-les de millor a pitjor, amb la primera sent la millor i l'última, la pitjor.",
     "unchanged_title": "Ordre sense canviar",
     "unchanged_message": "No has canviat l'ordre de les respostes. Segur que vols continuar?"
   },
   "reply_as_assistant": {
     "label": "Contestar com a assistent",
-    "desc": "Ajuda Open Assistant a millorar les seves respostes en converses amb altres usuaris.",
+    "desc": "Ajuda ራስ | rasGPT a millorar les seves respostes en converses amb altres usuaris.",
     "overview": "Donada la conversa següent, proporciona una resposta adequada",
     "response_placeholder": "Escriu la resposta aquí..."
   },
   "reply_as_user": {
     "label": "Contestar com a usuari",
-    "desc": "Parla amb Open Assistant i intenta millorar les respostes mentre interacciones amb ell.",
+    "desc": "Parla amb ራስ | rasGPT i intenta millorar les respostes mentre interacciones amb ell.",
     "overview": "Donada la conversa següent, proporciona una resposta adequada",
     "instruction": "Proporciona la resposta de l'usuari",
     "response_placeholder": "Escriu la resposta aquí..."

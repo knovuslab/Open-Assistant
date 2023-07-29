@@ -52,7 +52,7 @@ const MessageDetail = () => {
   return (
     <>
       <Head>
-        <title>Open Assistant</title>
+        <title>ራስ | rasGPT</title>
       </Head>
       <AdminArea>
         {(isLoading && !data) ||

@@ -5,7 +5,7 @@
   "config_title": "Chat configuration",
   "delete_chat": "Delete chat",
   "delete_confirmation": "Are you sure you want to delete this chat?",
-  "delete_confirmation_detail": "If you delete this chat, it won't be part of our data, and we won't be able to use it to improve our models. Please take the time to upvote and downvote responses in other chats to help us make Open Assistant better!",
+  "delete_confirmation_detail": "If you delete this chat, it won't be part of our data, and we won't be able to use it to improve our models. Please take the time to upvote and downvote responses in other chats to help us make ራስ | rasGPT better!",
   "draft": "Draft",
   "drafts_generating_notify": "Draft messages are still generating. Please wait.",
   "edit_plugin": "Edit Plugin",
@@ -21,7 +21,7 @@
     "success_message": "You have opted out of training data.",
     "dialog": {
       "title": "Are you sure you want to opt this chat out of the training data?",
-      "description": "If you confirm, this chat won't be used for improving our model. Please take the time to upvote and downvote responses in other chats to help us make Open Assistant better!"
+      "description": "If you confirm, this chat won't be used for improving our model. Please take the time to upvote and downvote responses in other chats to help us make ራስ | rasGPT better!"
     }
   },
   "parameter_description": {
@@ -46,10 +46,10 @@
   "top_p": "Top P",
   "typical_p": "Typical P",
   "unverified_plugin": "UNVERIFIED",
-  "unverified_plugin_description": "This plugin has not been verified by the Open Assistant team. Use at your own risk.",
+  "unverified_plugin_description": "This plugin has not been verified by the ራስ | rasGPT team. Use at your own risk.",
   "used": "Used",
   "verified_plugin": "VERIFIED",
-  "verified_plugin_description": "This plugin has been verified by the Open Assistant team.",
+  "verified_plugin_description": "This plugin has been verified by the ራስ | rasGPT team.",
   "view_plugin": "View Plugin",
   "visible_hidden": "Visible & hidden",
   "warning": "This Assistant is a demonstration without full internet access. It may generate incorrect or misleading information. It is not suitable for important use cases or giving advice.",

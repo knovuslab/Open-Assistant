@@ -11,7 +11,7 @@ Below is a list of some available plugins.
 
 ## Official Plugins
 
-Default Plugins shipped, supported and hosted by Open Assistant.
+Default Plugins shipped, supported and hosted by ራስ | rasGPT.
 
 ### Web Retriever
 
@@ -60,7 +60,7 @@ He will compliment users at all times.
 ## Community Plugins
 
 Community plugins are plugins that are not officially supported by Open
-Assistant but developed by members of the Open Assistant community and listed
+Assistant but developed by members of the ራስ | rasGPT community and listed
 here for your convenience. For a more extensive list of public available plugins
 see the GitHub repository at
 [Targed/GPT-Plugins](https://github.com/Targed/GPT-Plugins).

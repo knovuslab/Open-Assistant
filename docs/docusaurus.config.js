@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Open Assistant",
+  title: "ራስ | rasGPT",
   tagline: "Build the assistant of the future!",
   url: "https://LAION-AI.github.io",
   trailingSlash: false,
@@ -72,9 +72,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Open Assistant",
+        title: "ራስ | rasGPT",
         logo: {
-          alt: "Open Assistant Logo",
+          alt: "ራስ | rasGPT Logo",
           src: "img/logo.svg",
         },
         items: [

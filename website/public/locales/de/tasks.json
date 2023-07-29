@@ -18,7 +18,7 @@
   },
   "create_initial_prompt": {
     "label": "Initialer Prompt",
-    "desc": "Schreiben Sie initiale Prompts, um Open Assistant dabei zu helfen, auf verschiedene Nachrichten zu antworten.",
+    "desc": "Schreiben Sie initiale Prompts, um ራስ | rasGPT dabei zu helfen, auf verschiedene Nachrichten zu antworten.",
     "overview": "Erstellen Sie eine erste Nachricht, die an den Assistenten gesendet werden soll",
     "instruction": "Geben Sie den initialen Prompt ein",
     "response_placeholder": "Schreiben Sie hier Ihren Prompt..."
@@ -44,7 +44,7 @@
   },
   "random": {
     "label": "Auf gut Glück",
-    "desc": "Helfen Sie uns, Open Assistant zu verbessern, indem Sie eine zufällige Aufgabe starten."
+    "desc": "Helfen Sie uns, ራስ | rasGPT zu verbessern, indem Sie eine zufällige Aufgabe starten."
   },
   "rank_assistant_replies": {
     "label": "Assistentenantworten einstufen",
@@ -62,20 +62,20 @@
   },
   "rank_user_replies": {
     "label": "Benutzerantworten einstufen",
-    "desc": "Helfen Sie Open Assistant dabei, seine Antworten auf Gespräche mit anderen Benutzern zu verbessern.",
+    "desc": "Helfen Sie ራስ | rasGPT dabei, seine Antworten auf Gespräche mit anderen Benutzern zu verbessern.",
     "overview": "Sortieren Sie die folgenden Benutzerantworten von der Besten zur Schlechtesten, wobei die Beste zuerst und die Schlechteste zuletzt kommt.",
     "unchanged_title": "Reihenfolge unverändert",
     "unchanged_message": "Sie haben die Reihenfolge nicht geändert. Möchten Sie wirklich fortfahren?"
   },
   "reply_as_assistant": {
     "label": "Als Assistent antworten",
-    "desc": "Helfen Sie Open Assistant dabei, seine Antworten auf Gespräche mit anderen Benutzern zu verbessern.",
+    "desc": "Helfen Sie ራስ | rasGPT dabei, seine Antworten auf Gespräche mit anderen Benutzern zu verbessern.",
     "overview": "Geben Sie angesichts des folgenden Gesprächs eine angemessene Antwort.",
     "response_placeholder": "Schreiben Sie hier Ihre Antwort..."
   },
   "reply_as_user": {
     "label": "Als Benutzer antworten",
-    "desc": "Chatten Sie mit Open Assistant und helfen Sie, seine Antworten zu verbessern, während Sie damit interagieren.",
+    "desc": "Chatten Sie mit ራስ | rasGPT und helfen Sie, seine Antworten zu verbessern, während Sie damit interagieren.",
     "overview": "Geben Sie angesichts des folgenden Gesprächs eine angemessene Antwort.",
     "instruction": "Geben Sie die Antwort des Benutzers an",
     "response_placeholder": "Schreiben Sie hier Ihre Antwort..."

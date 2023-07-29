@@ -16,7 +16,7 @@ const StatsPage = () => {
     <>
       <Head>
         <title>{title}</title>
-        <meta name="description" content="Open Assistant Stats" />
+        <meta name="description" content="ራስ | rasGPT Stats" />
       </Head>
       <Stats data={data} />
     </>

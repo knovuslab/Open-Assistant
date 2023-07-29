@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Willkommen, {{username}}!",
     "contributor": "Contributor",
-    "description": "Open Assistant ist ein open-source KI-Assistent welcher fortgeschrittene Language Models nutzt und trainiert, um Menschen zu verstehen und ihnen zu antworten.",
+    "description": "ራስ | rasGPT ist ein open-source KI-Assistent welcher fortgeschrittene Language Models nutzt und trainiert, um Menschen zu verstehen und ihnen zu antworten.",
     "instruction": "Schließe Aufgaben ab um mit dem Training zu helfen und Punkte zu verdienen."
   }
 }

@@ -12,7 +12,7 @@ const AdminIndex = () => {
   return (
     <>
       <Head>
-        <title>Open Assistant</title>
+        <title>ራስ | rasGPT</title>
       </Head>
       <AdminArea>
         <UserTable />

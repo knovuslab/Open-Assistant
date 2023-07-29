@@ -10,11 +10,11 @@
   "no_more_tasks": "Izgleda da nema pronađenih zadataka.",
   "random": {
     "label": "Osećam se srećno",
-    "desc": "Pomozite nam da poboljšamo Open Assistant tako što ćete započeti nasumični zadatak."
+    "desc": "Pomozite nam da poboljšamo ራስ | rasGPT tako što ćete započeti nasumični zadatak."
   },
   "create_initial_prompt": {
     "label": "Kreirajte početne zadatke",
-    "desc": "Napišite početne zadatke kako biste pomogli Open Assistant-u da pokuša da odgovori na različite poruke. (uđite u lutriju)",
+    "desc": "Napišite početne zadatke kako biste pomogli ራስ | rasGPT-u da pokuša da odgovori na različite poruke. (uđite u lutriju)",
     "overview": "Kreirajte početnu poruku za slanje asistentu",
     "instruction": "Navedite početne zadatke",
     "response_placeholder": "Napišite svoj zadatak ovde...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "Odgovori kao korisnik",
-    "desc": "Čavrljajte sa Open Assistant-om i pomozite u poboljšanju njegovih odgovora dok komunicirate sa njim.",
+    "desc": "Čavrljajte sa ራስ | rasGPT-om i pomozite u poboljšanju njegovih odgovora dok komunicirate sa njim.",
     "overview": "Imajući u vidu sledeći razgovor, pružite adekvatan odgovor",
     "instruction": "Navedite odgovor korisnika",
     "response_placeholder": "Napišite svoj odgovor ovde...",
@@ -30,14 +30,14 @@
   },
   "reply_as_assistant": {
     "label": "Odgovori kao asistent",
-    "desc": "Pomozite Open Assistant-u da poboljša svoje odgovore na razgovore sa drugim korisnicima.",
+    "desc": "Pomozite ራስ | rasGPT-u da poboljša svoje odgovore na razgovore sa drugim korisnicima.",
     "overview": "Imajući u vidu sledeći razgovor, pružite adekvatan odgovor",
     "response_placeholder": "Napišite svoj odgovor ovde...",
     "shotcut_tip": "Savet: Možete koristiti prečicu na tastaturi za pregledanje i slanje odgovora:"
   },
   "rank_user_replies": {
     "label": "Rangirajte odgovore korisnika",
-    "desc": "Pomozite Open Assistant-u da poboljša svoje odgovore na razgovore sa drugim korisnicima.",
+    "desc": "Pomozite ራስ | rasGPT-u da poboljša svoje odgovore na razgovore sa drugim korisnicima.",
     "overview": "Imajući u vidu sledeće korisničke odgovore, sortirajte ih od najboljeg do najgoreg, najbolji prvi, najgori poslednji.",
     "unchanged_title": "Redosled nepromenjen",
     "unchanged_message": "Niste promenili redosled zadatka. Da li ste sigurni da želite da nastavite?",
@@ -45,7 +45,7 @@
   },
   "rank_assistant_replies": {
     "label": "Rangirajte odgovore asistenta",
-    "desc": "Ocenite zadatke koje je dao Open Assistant na osnovu njihove tačnosti i čitljivosti.",
+    "desc": "Ocenite zadatke koje je dao ራስ | rasGPT na osnovu njihove tačnosti i čitljivosti.",
     "overview": "Imajući u vidu sledeće odgovore asistenta, sortirajte ih od najboljeg do najgoreg, najbolji prvi, najgori poslednji.",
     "unchanged_title": "Redosled nepromenjen",
     "unchanged_message": "Niste promenili redosled zadatka. Da li ste sigurni da želite da nastavite?",
@@ -53,7 +53,7 @@
   },
   "rank_initial_prompts": {
     "label": "Rangirajte početne zadatke",
-    "desc": "Ocenite zadatke koje je dao Open Assistant na osnovu njihove tačnosti i čitljivosti.",
+    "desc": "Ocenite zadatke koje je dao ራስ | rasGPT na osnovu njihove tačnosti i čitljivosti.",
     "overview": "Imajući u vidu sledeće početne zadatke, sortirajte ih od najboljeg do najgoreg, najbolji prvi, najgori poslednji.",
     "unchanged_title": "Redosled nepromenjen",
     "unchanged_message": "Niste promenili redosled zadatka. Da li ste sigurni da želite da nastavite?",

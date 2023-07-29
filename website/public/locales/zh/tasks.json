@@ -10,11 +10,11 @@
   "no_more_tasks": "似乎没有更多任务了",
   "random": {
     "label": "随机任务",
-    "desc": "通过开始一个随机的任务来帮助我们改进 Open Assistant"
+    "desc": "通过开始一个随机的任务来帮助我们改进 ራስ | rasGPT"
   },
   "create_initial_prompt": {
     "label": "创建初始提示",
-    "desc": "编写初始提示帮助 Open Assistant 回答不同的问题. (进入随机抽奖)",
+    "desc": "编写初始提示帮助 ራስ | rasGPT 回答不同的问题. (进入随机抽奖)",
     "overview": "创建一个初始消息以发送给助手",
     "instruction": "提供初始提示",
     "response_placeholder": "在此处编写您的提示...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "以用户身份回复",
-    "desc": "与Open Assistant聊天, 并在与之互动时帮助改进它的响应.",
+    "desc": "与ራስ | rasGPT聊天, 并在与之互动时帮助改进它的响应.",
     "overview": "根据以下对话提供适当的回复",
     "instruction": "提供用户的回复",
     "response_placeholder": "在此处编写您的回复...",
@@ -30,14 +30,14 @@
   },
   "reply_as_assistant": {
     "label": "以助手身份回复",
-    "desc": "帮助 Open Assistant 改进其对其他用户的响应。",
+    "desc": "帮助 ራስ | rasGPT 改进其对其他用户的响应。",
     "overview": "根据以下对话提供适当的回复",
     "response_placeholder": "在此处编写您的回复...",
     "shotcut_tip": "提示: 您可以使用快捷键来查看并提交:"
   },
   "rank_user_replies": {
     "label": "对用户的回复进行排名",
-    "desc": "帮助 Open Assistant 改进其对其他用户的响应.",
+    "desc": "帮助 ራስ | rasGPT 改进其对其他用户的响应.",
     "overview": "根据以下用户回复, 对它们进行排序, 好的在前, 差的在后.",
     "unchanged_title": "顺序未更改",
     "unchanged_message": "您未更改顺序, 确定要继续吗?",
@@ -45,7 +45,7 @@
   },
   "rank_assistant_replies": {
     "label": "对助手的回复进行排序",
-    "desc": "根据准确性和可读性对 Open Assistant 的回复进行评分.",
+    "desc": "根据准确性和可读性对 ራስ | rasGPT 的回复进行评分.",
     "overview": "根据以下助手回复, 对它们进行排序, 好的在前, 差的在后.",
     "unchanged_title": "顺序未更改",
     "unchanged_message": "您未更改顺序, 确定要继续吗?",
@@ -53,7 +53,7 @@
   },
   "rank_initial_prompts": {
     "label": "对初始提示进行排序",
-    "desc": "根据准确性和可读性对 Open Assistant 的提示进行评分.",
+    "desc": "根据准确性和可读性对 ራስ | rasGPT 的提示进行评分.",
     "overview": "根据以下初始提示, 对它们进行排序, 好的在前, 差的在后.",
     "unchanged_title": "顺序未更改",
     "unchanged_message": "您未更改顺序, 确定要继续吗?",

@@ -8,8 +8,8 @@ const AllTasks = () => {
   return (
     <>
       <Head>
-        <title>All Tasks - Open Assistant</title>
-        <meta name="description" content="All tasks for Open Assistant." />
+        <title>All Tasks - ራስ | rasGPT</title>
+        <meta name="description" content="All tasks for ራስ | rasGPT." />
       </Head>
       <TaskOption content={allTaskOptions} />
     </>

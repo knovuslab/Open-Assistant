@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Simple script to convert StackExchange XML to Open Assistant format
+# Simple script to convert StackExchange XML to ራስ | rasGPT format
 # Original code by https://github.com/b-mc2
 
 import gc
@@ -100,7 +100,7 @@ def parse_row(element):
 
 def convert_to_oa(all, source):
     """
-    Convert dataframe to Open Assistant format with INSTRUCTION, RESPONSE, SOURCE, METADATA columns
+    Convert dataframe to ራስ | rasGPT format with INSTRUCTION, RESPONSE, SOURCE, METADATA columns
 
     Only include questions with an AcceptedAnswerId
     """

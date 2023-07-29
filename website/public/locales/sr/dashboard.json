@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Dobrodošli, {{username}}!",
     "contributor": "Saradnik",
-    "description": "„Open Assistant“ je AI asistent otvorenog koda koji koristi i obučava napredne jezičke modele da razume ljude i odgovori na njihova pitanja.",
+    "description": "„ራስ | rasGPT“ je AI asistent otvorenog koda koji koristi i obučava napredne jezičke modele da razume ljude i odgovori na njihova pitanja.",
     "instruction": "Kompletirajte zadatke koji će nam pomoći da što bolje obučimo AI model i pri tome osvojite poene."
   }
 }

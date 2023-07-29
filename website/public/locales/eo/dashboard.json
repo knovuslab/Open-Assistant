@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Bonvenon, {{username}}!",
     "contributor": "Kontribuanto",
-    "description": "Open Assistant estas malfermitkoda AI-asistanto, kiu uzas kaj trejnas altnivelajn lingvajn modelojn por kompreni kaj respondi al homoj.",
+    "description": "ራስ | rasGPT estas malfermitkoda AI-asistanto, kiu uzas kaj trejnas altnivelajn lingvajn modelojn por kompreni kaj respondi al homoj.",
     "instruction": "Plenumu taskojn por helpi trejni la modelon kaj akiri poentojn."
   }
 }

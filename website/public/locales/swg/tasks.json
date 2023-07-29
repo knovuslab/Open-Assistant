@@ -17,7 +17,7 @@
   },
   "create_initial_prompt": {
     "label": "Initiales Prompt",
-    "desc": "Schreibsch a nuies Prompt, om Open Assistant zom helfa, uff verschiedene Nachrichta zu antworta.",
+    "desc": "Schreibsch a nuies Prompt, om ራስ | rasGPT zom helfa, uff verschiedene Nachrichta zu antworta.",
     "overview": "Erstellsch a erste Nachricht, die an dr Assistent gschickt werra soll",
     "instruction": "Gibsch z' initiale Prompt ein",
     "response_placeholder": "Schreibsch hier des Prompt..."
@@ -43,7 +43,7 @@
   },
   "random": {
     "label": "Uff gut Glück",
-    "desc": "Hilfsch ons, Open Assistant bessr zu macha, indem de a zufällige uffgabe stardesch."
+    "desc": "Hilfsch ons, ራስ | rasGPT bessr zu macha, indem de a zufällige uffgabe stardesch."
   },
   "rank_assistant_replies": {
     "label": "Assistentaantworta einstufa",
@@ -61,20 +61,20 @@
   },
   "rank_user_replies": {
     "label": "Benutzerantworten einstufa",
-    "desc": "Hilfsch m Open Assistant dabei, seine Antworta uff Gespräche mit andere Leit zu verbessera.",
+    "desc": "Hilfsch m ራስ | rasGPT dabei, seine Antworta uff Gespräche mit andere Leit zu verbessera.",
     "overview": "Sortiersch dui Benutzerantworta von dr Besta zur Schlechtesta, wobei d' Beste zerscht und d' Schlechteste zletzt kommt.",
     "unchanged_title": "Reihenfolge overändert",
     "unchanged_message": "Du haschd Reihenfolge et gändert. Weddsch wirklich fortfahra?"
   },
   "reply_as_assistant": {
     "label": "Als Assistent antworta",
-    "desc": "Hilfsch m Open Assistant dabei, seine Antworta uff Gespräche mit andere Leit zu verbessera.",
+    "desc": "Hilfsch m ራስ | rasGPT dabei, seine Antworta uff Gespräche mit andere Leit zu verbessera.",
     "overview": "Gibsch oagsichts des folgenden Gschprächs a oagmessene Antwort.",
     "response_placeholder": "Schreibsch hier dei Antwort..."
   },
   "reply_as_user": {
     "label": "Als Benutzer antworta",
-    "desc": "Chattesch mem Open Assistant ond hilfsch mit, seine Antworta zu verbessera, während de mit ihm schwätzt.",
+    "desc": "Chattesch mem ራስ | rasGPT ond hilfsch mit, seine Antworta zu verbessera, während de mit ihm schwätzt.",
     "overview": "Gibsch oagsichts des folgenden Gschprächs a oagmessene Antwort.",
     "instruction": "Gibsch die Antwort des Benutzers oa",
     "response_placeholder": "Schreibsch hier dei Antwort..."

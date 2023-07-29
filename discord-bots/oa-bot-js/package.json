@@ -1,6 +1,6 @@
 {
   "name": "open-assistant-discord",
-  "description": "This is a bot for the Open Assistant project. It is a Discord bot that allows you to interact with Open Assistant.",
+  "description": "This is a bot for the ራስ | rasGPT project. It is a Discord bot that allows you to interact with ራስ | rasGPT.",
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",

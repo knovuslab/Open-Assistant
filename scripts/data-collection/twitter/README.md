@@ -1,4 +1,4 @@
-# Twitter data collection for Open Assistant
+# Twitter data collection for ራስ | rasGPT
 
 Conversations on Twitter can be an interesting and useful source of data for our
 model to learn from. Certain twitter threads may contain helpful prompts and

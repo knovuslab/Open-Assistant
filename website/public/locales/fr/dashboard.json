@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Bienvenue, {{username}}!",
     "contributor": "Contributeur",
-    "description": "Open Assistant est un assistant IA open-source qui utilise et forme des modèles linguistiques avancés pour comprendre et répondre à des humains.",
+    "description": "ራስ | rasGPT est un assistant IA open-source qui utilise et forme des modèles linguistiques avancés pour comprendre et répondre à des humains.",
     "instruction": "Complétez des tâches pour aider à entrainer le modèle et gagnez des points."
   }
 }

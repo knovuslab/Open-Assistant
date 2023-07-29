@@ -5,45 +5,45 @@
   },
   "random": {
     "label": "Losowe zadanie",
-    "desc": "Pomóż nam udoskonalić Open Assistant poprzez wypełnienie losowego zadania."
+    "desc": "Pomóż nam udoskonalić ራስ | rasGPT poprzez wypełnienie losowego zadania."
   },
   "create_initial_prompt": {
     "label": "Utwórz Początkowe Polecenia",
-    "desc": "Napisz początkowe polecenia by pomóc Open Assistant w odpowiadaniu na różnorodne wiadomości. (dołącz do loterii)",
+    "desc": "Napisz początkowe polecenia by pomóc ራስ | rasGPT w odpowiadaniu na różnorodne wiadomości. (dołącz do loterii)",
     "overview": "Utwórz początkową wiadomość do wysłania asystentowi",
     "instruction": "Dostarcz początkowe polecenia",
     "response_placeholder": "Napisz tutaj swoje polecenie..."
   },
   "reply_as_user": {
     "label": "Odpowiedz Jako Użytkownik",
-    "desc": "Czatuj z Open Assistant i pomóż mu poprawić jego odpowiedzi w ramach postępującej rozmowy.",
+    "desc": "Czatuj z ራስ | rasGPT i pomóż mu poprawić jego odpowiedzi w ramach postępującej rozmowy.",
     "overview": "Mając daną konwersację, dostarcz odpowiednią odpowiedź",
     "instruction": "Dostarcz odpowiedź użytkownika",
     "response_placeholder": "Napisz tutaj swoją odpowiedź..."
   },
   "reply_as_assistant": {
     "label": "Odpowiedz Jako Asystent",
-    "desc": "Pomóż Open Assistant udoskonalić jego odpowiedzi na konwersacje z innymi użytkownikami.",
+    "desc": "Pomóż ራስ | rasGPT udoskonalić jego odpowiedzi na konwersacje z innymi użytkownikami.",
     "overview": "Mając daną konwersację, dostarcz odpowiednią odpowiedź",
     "response_placeholder": "Napisz tutaj swoją odpowiedź..."
   },
   "rank_user_replies": {
     "label": "Oceń Odpowiedzi Użytkownika",
-    "desc": "Pomóż Open Assistant udoskonalić jego odpowiedzi na konwersacje z innymi użytkownikami.",
+    "desc": "Pomóż ራስ | rasGPT udoskonalić jego odpowiedzi na konwersacje z innymi użytkownikami.",
     "overview": "Mając dane odpowiedzi użytkownika, uporządkuj je od najlepszej do najgorszej, najlepsza będąca pierwszą, a najgorsza ostatnią.",
     "unchanged_title": "Porządek niezmieniony",
     "unchanged_message": "Nie zmieniłeś porządku poleceń. Czy na pewno chcesz kontynuować?"
   },
   "rank_assistant_replies": {
     "label": "Oceń Odpowiedzi Asystenta",
-    "desc": "Oceń polecenia wydane przez Open Assistant na podstawie ich precyzji i czytelności.",
+    "desc": "Oceń polecenia wydane przez ራስ | rasGPT na podstawie ich precyzji i czytelności.",
     "overview": "Mając dane odpowiedzi asystenta, uporządkuj je od najlepszej do najgorszej, najlepsza będąca pierwszą, a najgorsza ostatnią.",
     "unchanged_title": "Porządek niezmieniony",
     "unchanged_message": "Nie zmieniłeś porządku poleceń. Czy na pewno chcesz kontynuować?"
   },
   "rank_initial_prompts": {
     "label": "Oceń Początkowe Polecenia",
-    "desc": "Oceń polecenia wydane przez Open Assistant na podstawie ich precyzji i czytelności.",
+    "desc": "Oceń polecenia wydane przez ራስ | rasGPT na podstawie ich precyzji i czytelności.",
     "overview": "Mając dane początkowe polecenia, uporządkuj je od najlepszej do najgorszej, najlepsza będąca pierwszą, a najgorsza ostatnią.",
     "unchanged_title": "Porządek niezmieniony",
     "unchanged_message": "Nie zmieniłeś porządku poleceń. Czy na pewno chcesz kontynuować?"

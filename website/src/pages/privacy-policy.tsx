@@ -69,12 +69,12 @@ const PrivacyPolicy = () => {
     {
       number: "3",
       title: "Data We Collect",
-      desc: "Open Assistant tracks data in the following conditions",
+      desc: "ራስ | rasGPT tracks data in the following conditions",
       sections: [
         {
           number: "3.1",
           title: "Using the Discord Bot",
-          desc: "When using the Open Assistant Discord bot, we privately track and store the unique Discord ID of the user submitting responses. Each submitted response is associated with the user’s Discord ID.",
+          desc: "When using the ራስ | rasGPT Discord bot, we privately track and store the unique Discord ID of the user submitting responses. Each submitted response is associated with the user’s Discord ID.",
         },
         {
           number: "3.2",
@@ -165,8 +165,8 @@ const PrivacyPolicy = () => {
   return (
     <>
       <Head>
-        <title>Privacy Policy - Open Assistant</title>
-        <meta name="description" content="Open Assistant's Privacy Policy" />
+        <title>Privacy Policy - ራስ | rasGPT</title>
+        <meta name="description" content="ራስ | rasGPT's Privacy Policy" />
       </Head>
       <Box p="6" className="oa-basic-theme">
         <Box className="max-w-4xl mx-auto">

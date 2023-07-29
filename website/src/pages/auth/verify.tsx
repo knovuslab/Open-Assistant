@@ -11,8 +11,8 @@ export default function Verify() {
   return (
     <>
       <Head>
-        <title>Sign Up - Open Assistant</title>
-        <meta name="Sign Up" content="Sign up to access Open Assistant" />
+        <title>Sign Up - ራስ | rasGPT</title>
+        <meta name="Sign Up" content="Sign up to access ራስ | rasGPT" />
       </Head>
       <div className={`flex h-full justify-center items-center ${bgColorClass}`}>
         <div className={bgColorClass}>

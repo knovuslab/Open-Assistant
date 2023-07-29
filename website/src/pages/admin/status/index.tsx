@@ -34,7 +34,7 @@ const StatusIndex = () => {
   return (
     <>
       <Head>
-        <title>Status - Open Assistant</title>
+        <title>Status - ራስ | rasGPT</title>
       </Head>
 
       <AdminArea>

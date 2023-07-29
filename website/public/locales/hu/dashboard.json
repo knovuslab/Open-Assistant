@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Szia {{username}}!",
     "contributor": "Közreműködő",
-    "description": "Az Open Assistant egy nyílt forráskódú MI, amely fejlett nyelvi modelleket használ és épít fel, hogy megértse az embereket és válaszoljon nekik.",
+    "description": "Az ራስ | rasGPT egy nyílt forráskódú MI, amely fejlett nyelvi modelleket használ és épít fel, hogy megértse az embereket és válaszoljon nekik.",
     "instruction": "Végezz el feladatokat, és segíts a modell betanításában, hogy pontokat kapj."
   }
 }

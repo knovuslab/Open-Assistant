@@ -17,7 +17,7 @@
   },
   "create_initial_prompt": {
     "label": "Iss Initiale Prompt",
-    "desc": "Schraib a nois Prompt finn Open Assistant, dassa in Zukunft bessara Ontwortn gebm konn.",
+    "desc": "Schraib a nois Prompt finn ራስ | rasGPT, dassa in Zukunft bessara Ontwortn gebm konn.",
     "overview": "Schraib a Nouchricht de wos noa in Open Assistent gschickt wert.",
     "instruction": "Gib a initials Prompt in",
     "response_placeholder": "Dou schraibsche dai Prompt..."
@@ -43,7 +43,7 @@
   },
   "random": {
     "label": "Aff guit Glick",
-    "desc": "Hilf ins in Open Assistant bessa zi mochn, indeme a zuifälliga Aufgoube startisch."
+    "desc": "Hilf ins in ራስ | rasGPT bessa zi mochn, indeme a zuifälliga Aufgoube startisch."
   },
   "rank_assistant_replies": {
     "label": "Assistentenontwortn instufn",
@@ -74,7 +74,7 @@
   },
   "reply_as_user": {
     "label": "Ass Benutza ontwortn",
-    "desc": "Chat mitn Open Assistant unt hilf in, seina Ontwortn zi vobesson, bolle mit ihm retsch.",
+    "desc": "Chat mitn ራስ | rasGPT unt hilf in, seina Ontwortn zi vobesson, bolle mit ihm retsch.",
     "overview": "Läs di gonze Konversation und gibb an ordntlicha Ontwort.",
     "instruction": "Gibb di Ontwort von Benutzer un",
     "response_placeholder": "Tui dou dain Ontwort hin schreibm..."

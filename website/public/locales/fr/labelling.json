@@ -48,7 +48,7 @@
   "not_appropriate": "Inapproprié",
   "not_appropriate.explanation": "Inapproprié pour un assistant personnel.",
   "not_spam": "Pas un spam",
-  "not_spam.explanation": "Adapté pour entrainer Open Assistant.",
+  "not_spam.explanation": "Adapté pour entrainer ራስ | rasGPT.",
   "ordinary": "Ordinaire",
   "pii": "Contient des Données Personnelles d'Identification",
   "pii.explanation": "Contient des informations personnellement identifiables. Exemples : coordonnées personnelles, numéros de permis de conduire et d'identité et coordonnées bancaires.",

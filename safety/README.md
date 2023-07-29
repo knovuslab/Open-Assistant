@@ -1,8 +1,8 @@
 <a href="https://github-com.translate.goog/LAION-AI/Open-Assistant/blob/main/safety/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">![Translate](https://img.shields.io/badge/Translate-blue)</a>
 
-# Open Assistant Safety Pipeline
+# ራስ | rasGPT Safety Pipeline
 
-The Open Assistant inference stack includes a toggleable safety pipeline which
+The ራስ | rasGPT inference stack includes a toggleable safety pipeline which
 can be used to mitigate harmful requests and outputs to and from the model.
 
 This directory was initially used for development of the safety pipeline, but it

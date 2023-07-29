@@ -1,7 +1,7 @@
-# Open Assistant Discord bot
+# ራስ | rasGPT Discord bot
 
-This is a bot for the Open Assistant project. It is a Discord bot that allows
-you to interact with Open Assistant.
+This is a bot for the ራስ | rasGPT project. It is a Discord bot that allows
+you to interact with ራስ | rasGPT.
 
 ## Start bot
 

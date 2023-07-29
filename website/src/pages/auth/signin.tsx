@@ -85,8 +85,8 @@ function Signin({ providers }: SigninProps) {
   return (
     <>
       <Head>
-        <title>Sign Up - Open Assistant</title>
-        <meta name="Sign Up" content="Sign up to access Open Assistant" />
+        <title>Sign Up - ራስ | rasGPT</title>
+        <meta name="Sign Up" content="Sign up to access ራስ | rasGPT" />
       </Head>
       <AuthLayout>
         <Stack spacing="2">

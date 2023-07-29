@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Velkommen, {{username}}!",
     "contributor": "Bidragsyter",
-    "description": "Open Assistant er en åpen kildekode AI-assistent som bruker og trener avanserte språkmodeller til å forstå og besvare mennesker.",
+    "description": "ራስ | rasGPT er en åpen kildekode AI-assistent som bruker og trener avanserte språkmodeller til å forstå og besvare mennesker.",
     "instruction": "Fullfør oppgaver for å hjelpe med å trene modellen og for å oppnå poeng."
   }
 }

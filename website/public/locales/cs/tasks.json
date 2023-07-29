@@ -9,7 +9,7 @@
   "no_more_tasks": "Vypadá to, že tu nejsou žádné další úlohy.",
   "random": {
     "label": "Zkusím štěstí",
-    "desc": "Pomozte nám vylepšit Open Assistant splněním náhodné úlohy."
+    "desc": "Pomozte nám vylepšit ራስ | rasGPT splněním náhodné úlohy."
   },
   "create_initial_prompt": {
     "label": "Vytvořit úvodní dotaz",
@@ -20,20 +20,20 @@
   },
   "reply_as_user": {
     "label": "Odpovědět jako uživatel",
-    "desc": "Chatujte s Open Assistant a pomozte vylepšit jeho odpovědi.",
+    "desc": "Chatujte s ራስ | rasGPT a pomozte vylepšit jeho odpovědi.",
     "overview": "Navrhněte vhodnou odpověď na tuto konverzaci",
     "instruction": "Napište odpověď uživatele",
     "response_placeholder": "Vaše odpověď..."
   },
   "reply_as_assistant": {
     "label": "Odpovědět jako Asistent",
-    "desc": "Pomozte Open Assistant vylepšit jeho odpovědi v konverzacích ostatních uživatelů.",
+    "desc": "Pomozte ራስ | rasGPT vylepšit jeho odpovědi v konverzacích ostatních uživatelů.",
     "overview": "Navrhněte vhodnou odpověď na tuto konverzaci",
     "response_placeholder": "Odpověď Asistenta..."
   },
   "rank_user_replies": {
     "label": "Seřadit odpovědi uživatelů",
-    "desc": "Pomozte Open Assistant vylepšit jeho odpovědi v konverzacích ostatních uživatelů.",
+    "desc": "Pomozte ራስ | rasGPT vylepšit jeho odpovědi v konverzacích ostatních uživatelů.",
     "overview": "Seřaďte navržené odpovědi uživatelů od nejlepší po nejhoší. Nejlepší odpověď bude první, nejhorší poslední.",
     "unchanged_title": "Původní pořadí",
     "unchanged_message": "Pořadí zpráv nebylo změněno. Jste si jistí, že chcete pokračovat?",

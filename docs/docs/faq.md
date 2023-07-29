@@ -40,7 +40,7 @@ help us improve the model in future!
 <details>
 <summary>
 
-### Can I install Open Assistant locally and chat with it?
+### Can I install ራስ | rasGPT locally and chat with it?
 
 </summary>
 
@@ -64,7 +64,7 @@ there to obtain a full model from these XOR weights.
 
 </summary>
 
-There is no API currently available for Open Assistant. Any mention of an API in
+There is no API currently available for ራስ | rasGPT. Any mention of an API in
 documentation is referencing the website's internal API. We understand that an
 API is a highly requested feature, but unfortunately, we can't provide one at
 this time due to a couple of reasons. Firstly, the inference system is already
@@ -95,21 +95,21 @@ inference setup and UI locally unless you wish to assist in development.
 <details>
 <summary>
 
-### What license does Open Assistant use?
+### What license does ራስ | rasGPT use?
 
 </summary>
 
-All Open Assistant code is licensed under Apache 2.0. This means it is available
+All ራስ | rasGPT code is licensed under Apache 2.0. This means it is available
 for a wide range of uses including commercial use.
 
-The Open Assistant Pythia based models are released as full weights and will be
+The ራስ | rasGPT Pythia based models are released as full weights and will be
 licensed under the Apache 2.0 license.
 
-The Open Assistant LLaMa based models will be released only as delta weights
+The ራስ | rasGPT LLaMa based models will be released only as delta weights
 meaning you will need the original LLaMa weights to use them, and the license
 restrictions will therefore be those placed on the LLaMa weights.
 
-The Open Assistant data is released under a Creative Commons license allowing a
+The ራስ | rasGPT data is released under a Creative Commons license allowing a
 wide range of uses including commercial use.
 
 </details>
@@ -117,11 +117,11 @@ wide range of uses including commercial use.
 <details>
 <summary>
 
-### Who is behind Open Assistant?
+### Who is behind ራስ | rasGPT?
 
 </summary>
 
-Open Assistant is a project organized by [LAION](https://laion.ai/) and
+ራስ | rasGPT is a project organized by [LAION](https://laion.ai/) and
 developed by a team of volunteers worldwide. You can see an incomplete list of
 developers on [our website](https://open-assistant.io/team).
 
@@ -134,7 +134,7 @@ you to everyone who has taken part!
 <details>
 <summary>
 
-### Will Open Assistant be free?
+### Will ራስ | rasGPT be free?
 
 </summary>
 
@@ -195,7 +195,7 @@ well as accelerate, DeepSpeed, bitsandbytes, NLTK, and other libraries.
 <details>
 <summary>
 
-### Can I use ChatGPT to help in training Open Assistant, for instance, by generating answers?
+### Can I use ChatGPT to help in training ራስ | rasGPT, for instance, by generating answers?
 
 </summary>
 
@@ -279,7 +279,7 @@ In the [GitHub issues](https://github.com/LAION-AI/Open-Assistant/issues).
 
 </summary>
 
-We want to ensure that the Open Assistant dataset is as accessible as possible.
+We want to ensure that the ራስ | rasGPT dataset is as accessible as possible.
 As such, it's necessary to avoid any harmful or offensive content that could be
 grounds for removal on sites such as Hugging Face. Likewise, we want the model
 to be trained to reject as few questions as possible, so it's important to not

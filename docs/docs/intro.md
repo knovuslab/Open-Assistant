@@ -3,16 +3,16 @@
 > The FAQ page is available at
 > [here](https://projects.laion.ai/Open-Assistant/docs/faq).
 
-Open Assistant (abbreviated as OA) is a chat-based and open-source assistant.
+ራስ | rasGPT (abbreviated as OA) is a chat-based and open-source assistant.
 The vision of the project is to make a large language model that can run on a
-single high-end consumer GPU. With some modifications, Open Assistant should
+single high-end consumer GPU. With some modifications, ራስ | rasGPT should
 also be able to interface with other third-party applications easily as well as
 retrieve information from databases and the Internet.
 
 You can play with our current best model [here](https://open-assistant.io/chat)!
 
 You should join the
-[Open Assistant discord server](https://ykilcher.com/open-assistant-discord)
+[ራስ | rasGPT discord server](https://ykilcher.com/open-assistant-discord)
 and/or comment on Github issues before making any major changes. Most dev
 communications take place on the Discord server. There are four main areas that
 you can work on:
@@ -27,7 +27,7 @@ you can work on:
    [`/data/datasets`](https://github.com/LAION-AI/Open-Assistant/tree/main/data/datasets)
    and are documented at
    [here](https://projects.laion.ai/Open-Assistant/docs/data/datasets).
-3. Creating and fine-tuning Open Assistant itself. For that, you should pay
+3. Creating and fine-tuning ራስ | rasGPT itself. For that, you should pay
    special attention to
    [`/model`](https://github.com/LAION-AI/Open-Assistant/tree/main/model).
 4. [open-assistant.io](https://open-assistant.io) dev. Take a close look at
@@ -42,7 +42,7 @@ you can work on:
 > for further information.
 
 Here's a list of first-level folders at
-[Open Assistant's Github page](https://github.com/LAION-AI/Open-Assistant/).
+[ራስ | rasGPT's Github page](https://github.com/LAION-AI/Open-Assistant/).
 
 - [`/ansible`](https://github.com/LAION-AI/Open-Assistant/tree/main/ansible) -
   for managing the full stack using
@@ -66,16 +66,16 @@ Here's a list of first-level folders at
 - [`/docs`](https://github.com/LAION-AI/Open-Assistant/tree/main/docs) - this
   website!
 - [`/inference`](https://github.com/LAION-AI/Open-Assistant/tree/main/inference) -
-  inference pipeline for Open Assistant model
+  inference pipeline for ራስ | rasGPT model
 - [`/model`](https://github.com/LAION-AI/Open-Assistant/tree/main/model) -
-  currently contains scripts and tools for training/fine-tuning Open Assistant
+  currently contains scripts and tools for training/fine-tuning ራስ | rasGPT
   and other neural networks
 - [\*`/notebooks`](https://github.com/LAION-AI/Open-Assistant/tree/main/inference) -
   DEPRECATED in favor of\*
   [`/data/datasets`](https://github.com/LAION-AI/Open-Assistant/tree/main/data/datasets).
   Contains jupyter notebooks for data scraping and augmentation
 - [`/oasst-shared`](https://github.com/LAION-AI/Open-Assistant/tree/main/oasst-shared) -
-  shared Python code for Open Assistant
+  shared Python code for ራስ | rasGPT
 - [`/scripts`](https://github.com/LAION-AI/Open-Assistant/tree/main/scripts) -
   contains various scripts for things
 - [`/text-frontend`](https://github.com/LAION-AI/Open-Assistant/tree/main/text-frontend)

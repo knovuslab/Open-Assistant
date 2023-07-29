@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "model_training"
-description = "Open Assistant Model Training Module"
+description = "ራስ | rasGPT Model Training Module"
 version = "1.0.0"
 authors = [
     { name = "LAION-AI", email = "contact@laion.ai" }

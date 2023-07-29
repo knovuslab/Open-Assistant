@@ -94,7 +94,7 @@ This works with `torch.distributed`.
 
 ## Training only on OA internal data:
 
-To experiment with the Open Assistant data simply run:
+To experiment with the ራስ | rasGPT data simply run:
 
 ```bash
 python trainer_sft.py --configs oasst_export_eu galactica-125m

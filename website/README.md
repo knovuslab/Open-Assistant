@@ -4,11 +4,11 @@
 
 ## Purpose
 
-This provides a comprehensive webapp interface for LAION's Open Assistant project. Initially it will support:
+This provides a comprehensive webapp interface for LAION's ራስ | rasGPT project. Initially it will support:
 
 1.  User registration using either Discord or Email.
-1.  Adding responses to incomplete Open Assistant tasks.
-1.  Rating or Ranking responses to Open Assistant tasks.
+1.  Adding responses to incomplete ራስ | rasGPT tasks.
+1.  Rating or Ranking responses to ራስ | rasGPT tasks.
 1.  Viewing an activity leaderboard.
 1.  Tracking community wide updates.
 

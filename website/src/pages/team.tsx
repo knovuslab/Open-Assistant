@@ -14,8 +14,8 @@ const Team = () => {
   return (
     <>
       <Head>
-        <title>{`${t("who_are_we")} - Open Assistant`}</title>
-        <meta name="description" content="The team behind Open Assistant" />
+        <title>{`${t("who_are_we")} - ራስ | rasGPT`}</title>
+        <meta name="description" content="The team behind ራስ | rasGPT" />
       </Head>
       <Box p="6" className="oa-basic-theme">
         <Stack className="max-w-6xl mx-auto" spacing="6" mb="6">

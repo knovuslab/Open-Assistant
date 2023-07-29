@@ -715,7 +715,7 @@
       ]
     },
     {
-      "prompt": "I want to run Open Assistant on my personal laptop. What is the best affordable GPU that I can get to do it?",
+      "prompt": "I want to run ራስ | rasGPT on my personal laptop. What is the best affordable GPU that I can get to do it?",
       "results": [
         {
           "sampling_config": "k50",
@@ -729,7 +729,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "The best GPU that you could use for running Open Assistant with your own computer would be the NVIDIA GeForce GTX 1070 or a model equivalent in terms of performance. These cards offer a decent amount of computational power for doing image recognition tasks and processing text-based information. Although they might not have quite the same memory and computing capacity as those used in industry models such as Tesla V100s, these smaller cards should provide enough horsepower so that users wouldn't notice any slowdown when having to perform some task involving text analysis, image captioning or voice assistance capabilities.",
+            "The best GPU that you could use for running ራስ | rasGPT with your own computer would be the NVIDIA GeForce GTX 1070 or a model equivalent in terms of performance. These cards offer a decent amount of computational power for doing image recognition tasks and processing text-based information. Although they might not have quite the same memory and computing capacity as those used in industry models such as Tesla V100s, these smaller cards should provide enough horsepower so that users wouldn't notice any slowdown when having to perform some task involving text analysis, image captioning or voice assistance capabilities.",
             "The most affordable graphics card available would be an nVidia gtx1060 if your budget allows and it's something I've been using with great success for various AI/Machine Learning applications (somewhat of a beginner in this area)"
           ]
         },
@@ -744,8 +744,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "The best affordable GPU that you can get to run Open Assistant on your personal laptop is the NVIDIA GeForce GTX 1050 Ti. This GPU is powerful enough to run Open Assistant on your personal laptop, and it is also affordable.",
-            "The best affordable GPU that you can get to run Open Assistant on your personal laptop is the NVIDIA GeForce GTX 1050 Ti. This GPU is powerful enough to run Open Assistant on your personal laptop, and it is also affordable."
+            "The best affordable GPU that you can get to run ራስ | rasGPT on your personal laptop is the NVIDIA GeForce GTX 1050 Ti. This GPU is powerful enough to run ራስ | rasGPT on your personal laptop, and it is also affordable.",
+            "The best affordable GPU that you can get to run ራስ | rasGPT on your personal laptop is the NVIDIA GeForce GTX 1050 Ti. This GPU is powerful enough to run ራስ | rasGPT on your personal laptop, and it is also affordable."
           ]
         },
         {
@@ -759,7 +759,7 @@
             "top_p": 0.242
           },
           "outputs": [
-            "The best affordable GPU that you can get to run Open Assistant on your personal laptop is the NVIDIA GeForce GTX 1060. It is a great GPU that is powerful enough to run Open Assistant smoothly. It is also a great value for money option that is affordable for most people.\n\n",
+            "The best affordable GPU that you can get to run ራስ | rasGPT on your personal laptop is the NVIDIA GeForce GTX 1060. It is a great GPU that is powerful enough to run ራስ | rasGPT smoothly. It is also a great value for money option that is affordable for most people.\n\n",
             "I'm not sure I can help you."
           ]
         },
@@ -773,7 +773,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "I recommend the NVIDIA GeForce GTX 1060. It's a great GPU for running Open Assistant, and it's also a great value. It's a great choice for a laptop, and it's also a great choice for a desktop.\n\n"
+            "I recommend the NVIDIA GeForce GTX 1060. It's a great GPU for running ራስ | rasGPT, and it's also a great value. It's a great choice for a laptop, and it's also a great choice for a desktop.\n\n"
           ]
         }
       ]
@@ -2489,7 +2489,7 @@
       ]
     },
     {
-      "prompt": "How does Open Assistant work?",
+      "prompt": "How does ራስ | rasGPT work?",
       "results": [
         {
           "sampling_config": "k50",
@@ -2503,8 +2503,8 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Open Assistant is an online service that enables users from around the world to obtain answers and information through conversation with machine learning models. You can use it whenever necessary!\n\n",
-            "Open Assistant is an artificially intelligent (AI) system created at OpenAI to assist users in their daily lives. It's designed to be adaptive and responsive, able to learn from interactions with its human counterpart and adjust itself based on the information it receives. Its capabilities include natural language processing, understanding conversational context, reasoning about relationships between topics or concepts, making recommendations, suggesting new actions for customers to take, analyzing vast quantities of unstructured text, providing contextual reminders about tasks to complete, identifying entities within documents such as phone numbers, addresses, etc., and performing general knowledge-based searches on large amounts of online content.\n\n"
+            "ራስ | rasGPT is an online service that enables users from around the world to obtain answers and information through conversation with machine learning models. You can use it whenever necessary!\n\n",
+            "ራስ | rasGPT is an artificially intelligent (AI) system created at OpenAI to assist users in their daily lives. It's designed to be adaptive and responsive, able to learn from interactions with its human counterpart and adjust itself based on the information it receives. Its capabilities include natural language processing, understanding conversational context, reasoning about relationships between topics or concepts, making recommendations, suggesting new actions for customers to take, analyzing vast quantities of unstructured text, providing contextual reminders about tasks to complete, identifying entities within documents such as phone numbers, addresses, etc., and performing general knowledge-based searches on large amounts of online content.\n\n"
           ]
         },
         {
@@ -2518,8 +2518,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "Open Assistant is a conversational AI platform that allows users to ask questions and get answers from a variety of sources. It can be used for a variety of tasks, such as providing information about a specific topic, answering questions about a specific topic, or providing information about a specific location.\n\n",
-            "Open Assistant is a conversational AI that can help you with a variety of tasks. It can answer questions, provide information, and help you complete tasks. You can interact with Open Assistant in a variety of ways, including text, voice, and video. Open Assistant is designed to be easy to use, so you can get started quickly.\n\n"
+            "ራስ | rasGPT is a conversational AI platform that allows users to ask questions and get answers from a variety of sources. It can be used for a variety of tasks, such as providing information about a specific topic, answering questions about a specific topic, or providing information about a specific location.\n\n",
+            "ራስ | rasGPT is a conversational AI that can help you with a variety of tasks. It can answer questions, provide information, and help you complete tasks. You can interact with ራስ | rasGPT in a variety of ways, including text, voice, and video. ራስ | rasGPT is designed to be easy to use, so you can get started quickly.\n\n"
           ]
         },
         {
@@ -2533,8 +2533,8 @@
             "top_p": 0.242
           },
           "outputs": [
-            "Open Assistant is a chatbot that helps users with a variety of tasks. It can answer questions, provide information, and help users with a variety of tasks. It can also help users with tasks such as scheduling appointments, finding local businesses, and more.\n\n",
-            "Open Assistant is a cloud-based AI assistant that can help you with a variety of tasks. It can answer questions, provide information, and perform other tasks based on the data it has access to. It can also help you with tasks that require a lot of information, such as planning a trip or finding a good restaurant.\n\n"
+            "ራስ | rasGPT is a chatbot that helps users with a variety of tasks. It can answer questions, provide information, and help users with a variety of tasks. It can also help users with tasks such as scheduling appointments, finding local businesses, and more.\n\n",
+            "ራስ | rasGPT is a cloud-based AI assistant that can help you with a variety of tasks. It can answer questions, provide information, and perform other tasks based on the data it has access to. It can also help you with tasks that require a lot of information, such as planning a trip or finding a good restaurant.\n\n"
           ]
         },
         {
@@ -2547,7 +2547,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "Open Assistant is a conversational AI that helps you get things done. It's designed to be a helpful assistant that can help you with a variety of tasks, from answering questions to scheduling appointments to finding information. It's designed to be easy to use, so you can get things done quickly and easily.\n\n"
+            "ራስ | rasGPT is a conversational AI that helps you get things done. It's designed to be a helpful assistant that can help you with a variety of tasks, from answering questions to scheduling appointments to finding information. It's designed to be easy to use, so you can get things done quickly and easily.\n\n"
           ]
         }
       ]
@@ -3909,7 +3909,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Sure. So when you talk about your skills set as an assistant, I'm assuming that what we're talking about is the specific technologies or methods used with AI. Now for example: The \"Open Assistant\" was actually based off an older model, the Xerox PARC computer, which was released in 1976. It had three different main components:\n\n\n1. A display monitor showing text messages (text-to-speech conversion)\n2. An operator input keyboard system (using voice recognition software) \n3. An advanced word processing system similar to today's Microsoft Word (similar functions). \n\nThe way this works",
+            "Sure. So when you talk about your skills set as an assistant, I'm assuming that what we're talking about is the specific technologies or methods used with AI. Now for example: The \"ራስ | rasGPT\" was actually based off an older model, the Xerox PARC computer, which was released in 1976. It had three different main components:\n\n\n1. A display monitor showing text messages (text-to-speech conversion)\n2. An operator input keyboard system (using voice recognition software) \n3. An advanced word processing system similar to today's Microsoft Word (similar functions). \n\nThe way this works",
             "<div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>OpenAI's AI Assistant is able to understand natural language in much more detail than any computer program before it. It uses advanced algorithms based on deep learning methods that have been proven successful at tasks such as translation, visual recognition, and even playing video games.</p></div><div class=\"text markdown\">\n >    I am one of the developers who built OpenAI's open source AI Engine \u2013 known as an <b>AlphaZero</b>. The goal is to develop better understanding with regards to human intelligence by"
           ]
         },

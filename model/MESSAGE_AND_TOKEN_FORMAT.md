@@ -19,7 +19,7 @@ produces a LLM model like gpt-3, galactica, etc.
 ## Step 1. Supervised Fine Tuning
 
 Using a pretrained LLM, we use Supervised Fine Tuning (SFT). We take
-demonstration data, in our case the Open Assistant dataset (oasst dataset)
+demonstration data, in our case the ራስ | rasGPT dataset (oasst dataset)
 created by volunteers, to learn a supervised policy (the SFT model) that
 generates outputs from a selected list of prompts. This represents the baseline
 model.
@@ -58,7 +58,7 @@ https://github.com/Open-Assistant/oasst-model-eval/blob/main/model_eval/manual/s
 
 ## Message Format v2
 
-This is used by most Open Assistant models.
+This is used by most ራስ | rasGPT models.
 
 Format:
 
@@ -80,7 +80,7 @@ This is just to make entries in a batch the same size.
 
 ## Message Format v2-new
 
-Experiments are ongoing with new Open Assistant models using this format.
+Experiments are ongoing with new ራስ | rasGPT models using this format.
 
 **Note:** The `<|system|>{prefix}<|endoftext|>` is omitted entirely if `prefix`
 is empty.

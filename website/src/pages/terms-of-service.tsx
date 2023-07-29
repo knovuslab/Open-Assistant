@@ -7,8 +7,8 @@ const TermsOfServicePage = () => {
   return (
     <>
       <Head>
-        <title>Terms of Service - Open Assistant</title>
-        <meta name="description" content="Open Assistant's Terms of Service" />
+        <title>Terms of Service - ራስ | rasGPT</title>
+        <meta name="description" content="ራስ | rasGPT's Terms of Service" />
       </Head>
       <Box p="6" className="oa-basic-theme">
         <Box className="max-w-4xl mx-auto">

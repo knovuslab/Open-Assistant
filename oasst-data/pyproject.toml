@@ -1,6 +1,6 @@
 [project]
 name = "oasst_data"
-description = "Open Assistant Data Module"
+description = "ራስ | rasGPT Data Module"
 version = "1.0.0"
 authors = [
     { name = "LAION-AI", email = "contact@laion.ai" }

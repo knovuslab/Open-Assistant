@@ -9,39 +9,39 @@
   "no_more_tasks": "Không thể tìm thấy thêm việc.",
   "random": {
     "label": "Chọn ngẫu nhiên",
-    "desc": "Giúp cải thiện Open Assistant bằng cách làm một việc ngẫu nhiên."
+    "desc": "Giúp cải thiện ራስ | rasGPT bằng cách làm một việc ngẫu nhiên."
   },
   "create_initial_prompt": {
     "label": "Tạo tin nhắn đầu tiên",
-    "desc": "Viết tin nhắn đầu tiên để làm bộ dữ liệu cho Open Assistant.",
-    "overview": "Viết tin nhắn đầu tiên để Open Assistant trả lời",
+    "desc": "Viết tin nhắn đầu tiên để làm bộ dữ liệu cho ራስ | rasGPT.",
+    "overview": "Viết tin nhắn đầu tiên để ራስ | rasGPT trả lời",
     "instruction": "Viết tin nhắn đầu",
     "response_placeholder": "Viết vào đây..."
   },
   "reply_as_user": {
     "label": "Đóng vai người dùng",
-    "desc": "Trò chuyện với Open Assistant và cải thiện con bot.",
+    "desc": "Trò chuyện với ራስ | rasGPT và cải thiện con bot.",
     "overview": "Tạo câu trả lời phù hợp cho cuộc trò truyện dưới đây",
     "instruction": "Viết tin nhắn trả lời",
     "response_placeholder": "Viết vào đây..."
   },
   "reply_as_assistant": {
     "label": "Đóng vai trợ lý",
-    "desc": "Giúp cải thiện câu trả lời của Open Assistant.",
+    "desc": "Giúp cải thiện câu trả lời của ራስ | rasGPT.",
     "overview": "Tạo câu trả lời phù hợp cho cuộc trò truyện dưới đây",
     "response_placeholder": "Viết vào đây..."
   },
   "rank_user_replies": {
     "label": "Xếp hạng các câu trả lời của người dùng",
-    "desc": "Giúp cải thiện câu trả lời của Open Assistant.",
+    "desc": "Giúp cải thiện câu trả lời của ራስ | rasGPT.",
     "overview": "Từ những câu trả lời của người dùng, xếp hạng chúng theo chất lượng, tốt nhât ở trên, tệ nhất ở dưới.",
     "unchanged_title": "Chưa thay đổi thứ tự",
     "unchanged_message": "Bạn chưa thay đổi thứ tự tin nhắn. Bạn có chắc muốn lưu không?"
   },
   "rank_assistant_replies": {
-    "label": "Xếp hạng các câu trả lời của Open Assistant",
-    "desc": "Đánh giá độ chính xác và dễ đọc của các câu trả lời mà Open Assistant đưa ra.",
-    "overview": "Từ những câu trả lời của Open Assistant, xếp hạng chúng theo chất lượng, tốt nhât ở trên, tệ nhất ở dưới.",
+    "label": "Xếp hạng các câu trả lời của ራስ | rasGPT",
+    "desc": "Đánh giá độ chính xác và dễ đọc của các câu trả lời mà ራስ | rasGPT đưa ra.",
+    "overview": "Từ những câu trả lời của ራስ | rasGPT, xếp hạng chúng theo chất lượng, tốt nhât ở trên, tệ nhất ở dưới.",
     "unchanged_title": "Chưa thay đổi thứ tự",
     "unchanged_message": "Bạn chưa thay đổi thứ tự tin nhắn. Bạn có chắc muốn lưu không?"
   },
@@ -63,8 +63,8 @@
     "overview": "Từ cuộc trò truyện ở dưới, tạo nhãn dữ liệu cho tin nhắn sau."
   },
   "label_assistant_reply": {
-    "label": "Đánh giá các tin nhắn của Open Assistant",
-    "desc": "Tạo nhãn dữ liệu đánh giá tin nhắn của Open Assistant.",
+    "label": "Đánh giá các tin nhắn của ራስ | rasGPT",
+    "desc": "Tạo nhãn dữ liệu đánh giá tin nhắn của ራስ | rasGPT.",
     "overview": "Từ cuộc trò truyện ở dưới, tạo nhãn dữ liệu cho tin nhắn sau."
   },
   "classify_initial_prompt": {
@@ -78,7 +78,7 @@
     "overview": "Từ cuộc trò truyện ở dưới, trả lời các câu hỏi về câu trả lời cuối trong cuộc trò truyện."
   },
   "classify_assistant_reply": {
-    "label": "Phân loại các tin nhắn của Open Assistant",
+    "label": "Phân loại các tin nhắn của ራስ | rasGPT",
     "desc": "Tạo nhãn dữ liệu để đánh giá tin nhắn.",
     "overview": "Từ cuộc trò truyện ở dưới, trả lời các câu hỏi về câu trả lời cuối trong cuộc trò truyện."
   },

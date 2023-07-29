@@ -2,7 +2,7 @@
 
 ## Dataset Description
 
-This dataset is prepared to train Open Assistant with Chinese most popular
+This dataset is prepared to train ራስ | rasGPT with Chinese most popular
 Question Answering website [Zhihu](https://www.zhihu.com/). So far, only the QA
 from KOL (Key Opinion Leader) are recorded and prepared. Later on, we will
 expand to other general topics.

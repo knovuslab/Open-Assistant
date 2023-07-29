@@ -1,6 +1,6 @@
 [project]
 name = "oasst_shared"
-description = "Open Assistant Shared Module"
+description = "ራስ | rasGPT Shared Module"
 version = "1.0.0"
 authors = [
     { name = "LAION-AI", email = "contact@laion.ai" }

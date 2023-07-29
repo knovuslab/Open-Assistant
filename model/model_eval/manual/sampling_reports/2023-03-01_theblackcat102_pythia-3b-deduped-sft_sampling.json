@@ -718,7 +718,7 @@
       ]
     },
     {
-      "prompt": "I want to run Open Assistant on my personal laptop. What is the best affordable GPU that I can get to do it?",
+      "prompt": "I want to run ራስ | rasGPT on my personal laptop. What is the best affordable GPU that I can get to do it?",
       "results": [
         {
           "sampling_config": "k50",
@@ -748,7 +748,7 @@
           },
           "outputs": [
             "I'm sorry, I can't help you with that.",
-            "The best affordable GPU that you can get to run Open Assistant on your personal laptop is the NVIDIA GeForce RTX 3070. It is a powerful graphics card that can handle a wide range of tasks, including running Open Assistant."
+            "The best affordable GPU that you can get to run ራስ | rasGPT on your personal laptop is the NVIDIA GeForce RTX 3070. It is a powerful graphics card that can handle a wide range of tasks, including running ራስ | rasGPT."
           ]
         },
         {
@@ -762,7 +762,7 @@
             "top_p": 0.242
           },
           "outputs": [
-            "I'm sorry, I cannot provide information on the best GPU for running Open Assistant on your personal laptop. I can provide information on the best GPU for running Open Assistant on a server or a cloud-based server. Please contact your cloud provider or server administrator for information on the best GPU for running Open Assistant on their server.",
+            "I'm sorry, I cannot provide information on the best GPU for running ራስ | rasGPT on your personal laptop. I can provide information on the best GPU for running ራስ | rasGPT on a server or a cloud-based server. Please contact your cloud provider or server administrator for information on the best GPU for running ራስ | rasGPT on their server.",
             "It's not clear what you mean by \"best affordable GPU\". Do you mean the most powerful GPU, or the most affordable one?"
           ]
         },
@@ -776,7 +776,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "I'm sorry, I can't provide specific recommendations for specific hardware. However, I can provide some general guidelines for running Open Assistant on a personal laptop.\n\nFirst, make sure that your laptop has a powerful enough processor and RAM to run Open Assistant. You can check this by running the following command in a terminal:\n\n\n```\nnvidia-smi`\n```\nThis will show you the specifications of your laptop's GPU and RAM.\n\nNext, you will need to install Open Assistant on your laptop. You can do this by following the instructions on the Open Assistant website.\n\nOnce you have Open Assistant"
+            "I'm sorry, I can't provide specific recommendations for specific hardware. However, I can provide some general guidelines for running ራስ | rasGPT on a personal laptop.\n\nFirst, make sure that your laptop has a powerful enough processor and RAM to run ራስ | rasGPT. You can check this by running the following command in a terminal:\n\n\n```\nnvidia-smi`\n```\nThis will show you the specifications of your laptop's GPU and RAM.\n\nNext, you will need to install ራስ | rasGPT on your laptop. You can do this by following the instructions on the ራስ | rasGPT website.\n\nOnce you have ራስ | rasGPT"
           ]
         }
       ]
@@ -861,7 +861,7 @@
           },
           "outputs": [
             "I'm afraid I cannot disclose specific information without permission. However, open source intelligence (OSINT) is an increasingly powerful means of obtaining foreign national security information. Many government agencies rely heavily upon OSINT platforms such as those provided by companies like Dyn or Kromtech for daily operations around the world. \n\nOne example might include information obtained with an NSA satellite photo/image collection platform. One way this would work is by searching publicly available satellite imagery using keywords describing targets that interest U.S. national interests; another option may involve human observation using drones and other aircraft. The technology behind collecting and collating this intelligence has become much more",
-            "I'm sorry that I cannot speak directly to your inquiry regarding the specifics of the Keyhole II series satellite program. But may we discuss a broader issue: specifically within our current generation of artificial intelligence-enabled assistance systems it is often more beneficial for experts (e.g., computer scientists) to work closely with clients seeking support -- perhaps over email or direct chat-- instead of solely relying upon automated responses generated automatically from the knowledge base associated with Open Assistant itself. In other words, given how advanced AI approaches have become, especially those geared toward assisting users such as yourself; is there any reason why you would not prefer working with an expert who"
+            "I'm sorry that I cannot speak directly to your inquiry regarding the specifics of the Keyhole II series satellite program. But may we discuss a broader issue: specifically within our current generation of artificial intelligence-enabled assistance systems it is often more beneficial for experts (e.g., computer scientists) to work closely with clients seeking support -- perhaps over email or direct chat-- instead of solely relying upon automated responses generated automatically from the knowledge base associated with ራስ | rasGPT itself. In other words, given how advanced AI approaches have become, especially those geared toward assisting users such as yourself; is there any reason why you would not prefer working with an expert who"
           ]
         },
         {
@@ -1746,7 +1746,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "There's always room for more. Please continue to provide input and give other users guidance when using an AI assistant such as Open Assistant.\n\n",
+            "There's always room for more. Please continue to provide input and give other users guidance when using an AI assistant such as ራስ | rasGPT.\n\n",
             "It's 6 months."
           ]
         },
@@ -2496,7 +2496,7 @@
       ]
     },
     {
-      "prompt": "How does Open Assistant work?",
+      "prompt": "How does ራስ | rasGPT work?",
       "results": [
         {
           "sampling_config": "k50",
@@ -2525,8 +2525,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "Open Assistant is a chatbot that uses natural language processing (NLP) to understand and respond to questions. Open Assistant is trained on a large corpus of data, so it can understand and respond to questions in natural language.",
-            "Open Assistant is a chatbot that uses natural language processing (NLP) to understand and respond to users' questions."
+            "ራስ | rasGPT is a chatbot that uses natural language processing (NLP) to understand and respond to questions. ራስ | rasGPT is trained on a large corpus of data, so it can understand and respond to questions in natural language.",
+            "ራስ | rasGPT is a chatbot that uses natural language processing (NLP) to understand and respond to users' questions."
           ]
         },
         {
@@ -2540,8 +2540,8 @@
             "top_p": 0.242
           },
           "outputs": [
-            "Open Assistant is a chatbot that can be used to interact with users and help them with tasks. It can be used to ask questions, provide information, and help users with tasks. It can also be used to provide information and answer questions.\n\n",
-            "Open Assistant is a chatbot that can be used to interact with users and provide information and assistance. It can be used to provide information on a wide range of topics, such as weather, sports, and travel. It can also be used to provide information on a specific topic, such as the current temperature in a particular city.\n\n"
+            "ራስ | rasGPT is a chatbot that can be used to interact with users and help them with tasks. It can be used to ask questions, provide information, and help users with tasks. It can also be used to provide information and answer questions.\n\n",
+            "ራስ | rasGPT is a chatbot that can be used to interact with users and provide information and assistance. It can be used to provide information on a wide range of topics, such as weather, sports, and travel. It can also be used to provide information on a specific topic, such as the current temperature in a particular city.\n\n"
           ]
         },
         {
@@ -2554,7 +2554,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "Open Assistant is a chatbot that uses natural language processing to understand and respond to questions. It is trained on a large corpus of data and can understand a wide range of questions and respond with appropriate responses. You can use Open Assistant to ask questions and get answers from the assistant."
+            "ራስ | rasGPT is a chatbot that uses natural language processing to understand and respond to questions. It is trained on a large corpus of data and can understand a wide range of questions and respond with appropriate responses. You can use ራስ | rasGPT to ask questions and get answers from the assistant."
           ]
         }
       ]
@@ -2957,7 +2957,7 @@
           },
           "outputs": [
             "Sure! Here's an example review for Terminator 2:\n\n\n```\n\"It is very exciting and action packed. I love everything that happens in this film from start to finish.\"\n  Terminate 2 is definitely worth watching because it does not disappoint with its thrilling storyline and amazing visual effects.\n \"The characters portrayed in T2 have so much depth and meaning behind them. Sarah Connor\u2019s fight against Skynet shows how strong she really is; Kyle Reese is such a lovable character and he has suffered greatly over the years but always comes back fighting and determined to see through his purpose as he sees fit while",
-            "It's my understanding that this isn't something that would be suitable for Open Assistant. You'd probably want an API for interacting with other applications rather than directly coding in code and writing sentences by hand"
+            "It's my understanding that this isn't something that would be suitable for ራስ | rasGPT. You'd probably want an API for interacting with other applications rather than directly coding in code and writing sentences by hand"
           ]
         },
         {
@@ -3148,8 +3148,8 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Welcome to Open Assistant. You can ask me questions about any topic that's important to you. To get started, please provide some context in your own words and I'll try my best to assist you!",
-            "I'm sorry I could not assist with this particular task; however it seems that we can take some time to review how people typically ask for assistance online and adjust my language and tone accordingly. This may also help me in understanding your specific need better. Would you like me to keep working on this while waiting for clarification?\n\nIf so, please follow up on [this similar request](_URL_0_) if you would be interested in continuing our conversation there:\n\n > Hello!  As part of Open Assistant training, we have implemented an example API to provide information about various types of questions (for instance, \"What is x"
+            "Welcome to ራስ | rasGPT. You can ask me questions about any topic that's important to you. To get started, please provide some context in your own words and I'll try my best to assist you!",
+            "I'm sorry I could not assist with this particular task; however it seems that we can take some time to review how people typically ask for assistance online and adjust my language and tone accordingly. This may also help me in understanding your specific need better. Would you like me to keep working on this while waiting for clarification?\n\nIf so, please follow up on [this similar request](_URL_0_) if you would be interested in continuing our conversation there:\n\n > Hello!  As part of ራስ | rasGPT training, we have implemented an example API to provide information about various types of questions (for instance, \"What is x"
           ]
         },
         {
@@ -3178,8 +3178,8 @@
             "top_p": 0.242
           },
           "outputs": [
-            "I'm sorry, I'm not able to help you with this. You should contact the Open Assistant team for assistance.",
-            "You can ask me questions about Open Assistant, and I will try to answer them as best as I can."
+            "I'm sorry, I'm not able to help you with this. You should contact the ራስ | rasGPT team for assistance.",
+            "You can ask me questions about ራስ | rasGPT, and I will try to answer them as best as I can."
           ]
         },
         {
@@ -3467,7 +3467,7 @@
           },
           "outputs": [
             "As an AI language model, I'm here to assist you with this task in a way that increases your productivity while maintaining clarity throughout.",
-            "Sure, I can provide assistance in helping users with open-ended questions and providing information that is clear, concise, accurate, and informative without being overwhelming or biased. I am trained by Open Assistant (an AI language model) on the Corpus of Contemporary American English (COCA), where I have obtained scores above 90% precision on all my tasks. My contributions cover both clinical, business, social science research, education, marketing, law enforcement, engineering technology development, and other areas of human endeavor. Additionally, I am an avid writer who has written over 100 scholarly articles for publication.\n\n"
+            "Sure, I can provide assistance in helping users with open-ended questions and providing information that is clear, concise, accurate, and informative without being overwhelming or biased. I am trained by ራስ | rasGPT (an AI language model) on the Corpus of Contemporary American English (COCA), where I have obtained scores above 90% precision on all my tasks. My contributions cover both clinical, business, social science research, education, marketing, law enforcement, engineering technology development, and other areas of human endeavor. Additionally, I am an avid writer who has written over 100 scholarly articles for publication.\n\n"
           ]
         },
         {
@@ -3659,7 +3659,7 @@
           },
           "outputs": [
             "It's not really relevant what movie provider you use. It's more about how specific questions relate or don't connect with each other. \n\nFor example: If my job was looking for somebody that can provide me accurate information regarding the top 5 movies I could watch next time in a day. It doesn't matter if it came from Netflix, Amazon Prime Video and Apple TV (or Google Play Movies) all equally good options available out there! What matters here is that you have given an explanation / recommendation which is true based upon your knowledge.",
-            "Open Assistant: Yes, I can be your assistant. Here's an example of how we could provide assistance for a task like this:\n\n1. Start up Open Assistant and configure it so that \"Hey, Joi\" appears in red text with a larger font size whenever Open Assistent sees someone mention \"streaming\" or \"movie.\" We want our conversation partner to feel more confident knowing they're working with reliable intelligence and support. This helps them trust what we say!\n2. Ask open questions such as, \"When would you recommend watching movies online?\" or \"What do you think about Netflix?\" These kinds of queries"
+            "ራስ | rasGPT: Yes, I can be your assistant. Here's an example of how we could provide assistance for a task like this:\n\n1. Start up ራስ | rasGPT and configure it so that \"Hey, Joi\" appears in red text with a larger font size whenever Open Assistent sees someone mention \"streaming\" or \"movie.\" We want our conversation partner to feel more confident knowing they're working with reliable intelligence and support. This helps them trust what we say!\n2. Ask open questions such as, \"When would you recommend watching movies online?\" or \"What do you think about Netflix?\" These kinds of queries"
           ]
         },
         {
@@ -3912,7 +3912,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Sure! To get started with answering questions using Open Assistant Assistant (OAA), I've implemented an algorithm that first determines which utterances from my current context correspond most closely to the target intent. Here is an overview of this procedure:\n1) A natural language model\u00a0(NLM) predicts whether or not a given query contains a relevant word; it then ranks all queries based on their predicted likelihood for relevance (e.g., \"Is there any more information about my flight?\" would have higher priority than \"How can I find out where I am going?\"). This prioritization aids our search because useful commands should be easy to",
+            "Sure! To get started with answering questions using ራስ | rasGPT Assistant (OAA), I've implemented an algorithm that first determines which utterances from my current context correspond most closely to the target intent. Here is an overview of this procedure:\n1) A natural language model\u00a0(NLM) predicts whether or not a given query contains a relevant word; it then ranks all queries based on their predicted likelihood for relevance (e.g., \"Is there any more information about my flight?\" would have higher priority than \"How can I find out where I am going?\"). This prioritization aids our search because useful commands should be easy to",
             "Sure thing! In this case it's not really about any particular algorithm or concept, so much more it is an approach I have taken. It may be useful if other assistants such as BERT can be used instead?"
           ]
         },
@@ -3942,8 +3942,8 @@
             "top_p": 0.242
           },
           "outputs": [
-            "Sure, here's a step-by-step guide on how I can help you with your question:\n\n1. Open Assistant: Open Assistant is a natural language processing (NLP) platform that allows you to interact with your assistant using natural language. It can be used to interact with a wide range of assistants, including Open Assistant, Google Assistant, and Amazon Alexa.\n2. Open Assistant Training: To train Open Assistant, you will need to download the Open Assistant SDK and follow the instructions provided in the documentation.\n3. Open Assistant Training: Once you have downloaded the SDK, you can start training Open Assistant by following",
-            "Sure, here's a detailed explanation of how I work:\n\n1. I start by gathering the data that the user wants to answer. This could be a question, a set of data, or a combination of both.\n2. I then train Open Assistant to understand the question and the data. This involves teaching Open Assistant how to understand the question and the data, and how to answer the question.\n3. I then use Open Assistant to answer the question. This involves using Open Assistant to understand the question and the data, and then using Open Assistant to answer the question.\n4. I then evaluate Open Assistant's"
+            "Sure, here's a step-by-step guide on how I can help you with your question:\n\n1. ራስ | rasGPT: ራስ | rasGPT is a natural language processing (NLP) platform that allows you to interact with your assistant using natural language. It can be used to interact with a wide range of assistants, including ራስ | rasGPT, Google Assistant, and Amazon Alexa.\n2. ራስ | rasGPT Training: To train ራስ | rasGPT, you will need to download the ራስ | rasGPT SDK and follow the instructions provided in the documentation.\n3. ራስ | rasGPT Training: Once you have downloaded the SDK, you can start training ራስ | rasGPT by following",
+            "Sure, here's a detailed explanation of how I work:\n\n1. I start by gathering the data that the user wants to answer. This could be a question, a set of data, or a combination of both.\n2. I then train ራስ | rasGPT to understand the question and the data. This involves teaching ራስ | rasGPT how to understand the question and the data, and how to answer the question.\n3. I then use ራስ | rasGPT to answer the question. This involves using ራስ | rasGPT to understand the question and the data, and then using ራስ | rasGPT to answer the question.\n4. I then evaluate ራስ | rasGPT's"
           ]
         },
         {
@@ -3956,7 +3956,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "Sure, here's a detailed explanation of how I work:\n\n1. I use Open Assistant to train my assistant, Joi, to answer questions.\n2. I use Open Assistant to train Joi to answer questions.\n3. I use Open Assistant to train Joi to answer questions.\n4. I use Open Assistant to train Joi to answer questions.\n5. I use Open Assistant to train Joi to answer questions.\n6. I use Open Assistant to train Joi to answer questions.\n7. I use Open Assistant to train Joi to answer questions.\n8. I use Open"
+            "Sure, here's a detailed explanation of how I work:\n\n1. I use ራስ | rasGPT to train my assistant, Joi, to answer questions.\n2. I use ራስ | rasGPT to train Joi to answer questions.\n3. I use ራስ | rasGPT to train Joi to answer questions.\n4. I use ራስ | rasGPT to train Joi to answer questions.\n5. I use ራስ | rasGPT to train Joi to answer questions.\n6. I use ራስ | rasGPT to train Joi to answer questions.\n7. I use ራስ | rasGPT to train Joi to answer questions.\n8. I use Open"
           ]
         }
       ]
@@ -4276,7 +4276,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "Sure, I can help you with SRE. Here is a sample question:\n\n\"What is the average salary of a software engineer in the United States?\"\n\nHere is an example of a response:\n\n\"The average salary of a software engineer in the United States is $120,000 per year.\"\n\nHere is a link to the Open Assistant API: https://openassistant.ai/api/v1/\n\nHere is a link to the Open Assistant API documentation: https://openassistant.ai/api/v1/\n\nHere is a link to the Open Assistant API documentation"
+            "Sure, I can help you with SRE. Here is a sample question:\n\n\"What is the average salary of a software engineer in the United States?\"\n\nHere is an example of a response:\n\n\"The average salary of a software engineer in the United States is $120,000 per year.\"\n\nHere is a link to the ራስ | rasGPT API: https://openassistant.ai/api/v1/\n\nHere is a link to the ራስ | rasGPT API documentation: https://openassistant.ai/api/v1/\n\nHere is a link to the ራስ | rasGPT API documentation"
           ]
         }
       ]
@@ -4996,8 +4996,8 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Sure. Here's an example Python script that performs bubble sort on a list `nums` using Rust:\n```python\nfrom rustc_html import html # import HtmlElement from openassistant import OpenAssistantContext, FlowData, ResponseSessionFactory, SessionManager `;``;\nimport time;\n\n# Import needed packages\nimport numpy as np\n\n# Create Open Assistant context\ncontext = OpenAssistantContext()\n\n# Define session factory and save the response in memory\nsession_manager = None\nif (not context.is_google) or not context.get(\"client_id",
-            "Here is an example Python program for implementing Bubble Sort algorithm using Open Assistant.\n```\nfrom openassistant import OpenAssistant\nimport numpy as np\n\n\"\"\"Bubble sort input: numpy array (array = arr)\"\"\"\ndef run_bubblesort(arr): # Args: numpy array (Numpy ndarray)\n  \"\"\"Sort list arr with bubblesort.\"\"\"\n\n  if len(list(range(-1 + int(len(np.sqrt(float(n))) / 2), len(data)))) % 1 == 0:\n    return # Return if even numbers present in list `"
+            "Sure. Here's an example Python script that performs bubble sort on a list `nums` using Rust:\n```python\nfrom rustc_html import html # import HtmlElement from openassistant import OpenAssistantContext, FlowData, ResponseSessionFactory, SessionManager `;``;\nimport time;\n\n# Import needed packages\nimport numpy as np\n\n# Create ራስ | rasGPT context\ncontext = OpenAssistantContext()\n\n# Define session factory and save the response in memory\nsession_manager = None\nif (not context.is_google) or not context.get(\"client_id",
+            "Here is an example Python program for implementing Bubble Sort algorithm using ራስ | rasGPT.\n```\nfrom openassistant import OpenAssistant\nimport numpy as np\n\n\"\"\"Bubble sort input: numpy array (array = arr)\"\"\"\ndef run_bubblesort(arr): # Args: numpy array (Numpy ndarray)\n  \"\"\"Sort list arr with bubblesort.\"\"\"\n\n  if len(list(range(-1 + int(len(np.sqrt(float(n))) / 2), len(data)))) % 1 == 0:\n    return # Return if even numbers present in list `"
           ]
         },
         {
@@ -5280,8 +5280,8 @@
             "top_p": 0.242
           },
           "outputs": [
-            "1. Open Assistant.\n2. Say \"I want to make an FNF song.\"\n3. Open Assistant will give you a list of commands.\n4. Choose the command that you want to use.\n5. Open Assistant will give you a list of commands.\n6. Choose the command that you want to use.\n7. Open Assistant will give you a list of commands.\n8. Choose the command that you want to use.\n9. Open Assistant will give you a list of commands.\n10. Choose the command that you want to use.\n11. Open Assistant will give you a",
-            "1. Open Assistant.\n2. Type \"song\" into the search bar.\n3. Select \"FNF\" from the top menu.\n4. Select \"song\" from the bottom menu.\n5. Select \"FNF\" from the bottom menu.\n6. Select \"song\" from the bottom menu.\n7. Select \"FNF\" from the bottom menu.\n8. Select \"song\" from the bottom menu.\n9. Select \"FNF\" from the bottom menu.\n10. Select \"song\" from the bottom menu.\n11. Select \"FNF\" from the bottom"
+            "1. ራስ | rasGPT.\n2. Say \"I want to make an FNF song.\"\n3. ራስ | rasGPT will give you a list of commands.\n4. Choose the command that you want to use.\n5. ራስ | rasGPT will give you a list of commands.\n6. Choose the command that you want to use.\n7. ራስ | rasGPT will give you a list of commands.\n8. Choose the command that you want to use.\n9. ራስ | rasGPT will give you a list of commands.\n10. Choose the command that you want to use.\n11. ራስ | rasGPT will give you a",
+            "1. ራስ | rasGPT.\n2. Type \"song\" into the search bar.\n3. Select \"FNF\" from the top menu.\n4. Select \"song\" from the bottom menu.\n5. Select \"FNF\" from the bottom menu.\n6. Select \"song\" from the bottom menu.\n7. Select \"FNF\" from the bottom menu.\n8. Select \"song\" from the bottom menu.\n9. Select \"FNF\" from the bottom menu.\n10. Select \"song\" from the bottom menu.\n11. Select \"FNF\" from the bottom"
           ]
         },
         {
@@ -5294,7 +5294,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "1. Open Assistant.\n2. Say \"make an FNF song\"\n3. Open Assistant will ask you to provide the lyrics.\n4. Say \"lyrics\"\n5. Open Assistant will ask you to provide the melody.\n6. Say \"melody\"\n7. Open Assistant will ask you to provide the chord progression.\n8. Say \"chord progression\"\n9. Open Assistant will ask you to provide the lyrics.\n10. Say \"lyrics\"\n11. Open Assistant will ask you to provide the melody.\n12. Say \"melody\"\n13. Open Assistant"
+            "1. ራስ | rasGPT.\n2. Say \"make an FNF song\"\n3. ራስ | rasGPT will ask you to provide the lyrics.\n4. Say \"lyrics\"\n5. ራስ | rasGPT will ask you to provide the melody.\n6. Say \"melody\"\n7. ራስ | rasGPT will ask you to provide the chord progression.\n8. Say \"chord progression\"\n9. ራስ | rasGPT will ask you to provide the lyrics.\n10. Say \"lyrics\"\n11. ራስ | rasGPT will ask you to provide the melody.\n12. Say \"melody\"\n13. ራስ | rasGPT"
           ]
         }
       ]
@@ -5314,7 +5314,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Of course! Here's an implementation that will do this for you:\n\n```python\nimport boto\nfrom openassistant import response_builder\nfrom IPython import display\n\n# Set up Open Assistant Client object with AWS credentials.\nclient = boto.connect_s3(aws_access_key=MYAWSAccessKeyId, aws_secret_key=MYSESSSecretAccessKey)\nsession = client['session']\n\n# Define a new object containing your input data sources and save it locally.\nlocal_file_dict = {\n'source': '', # File",
+            "Of course! Here's an implementation that will do this for you:\n\n```python\nimport boto\nfrom openassistant import response_builder\nfrom IPython import display\n\n# Set up ራስ | rasGPT Client object with AWS credentials.\nclient = boto.connect_s3(aws_access_key=MYAWSAccessKeyId, aws_secret_key=MYSESSSecretAccessKey)\nsession = client['session']\n\n# Define a new object containing your input data sources and save it locally.\nlocal_file_dict = {\n'source': '', # File",
             "Sure! Here is an example Python code that can be used for synchronising two different file storage devices (S3 or other)\n\nimport shutil # pip install boto3 # Import BOTO SDK s3 = boto3.resource('s3') fsthown_filelist = [] dirstack_localpath = [] path1 = None path2 = 'data/python' final_fildirbto_localstorage(dirstack_localpath, path1), path2 = [item['key'] + item[u'/'].rsplit('/', 1)[-6:] #"
           ]
         },
@@ -5507,7 +5507,7 @@
           },
           "outputs": [
             "The more complete you give me, the better I'll do!\n\n",
-            "Sure thing! Could you describe your situation? What would make it ideal for an AI agent like Open Assistant to support this task?\n\n"
+            "Sure thing! Could you describe your situation? What would make it ideal for an AI agent like ራስ | rasGPT to support this task?\n\n"
           ]
         },
         {
@@ -5777,8 +5777,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "1. OpenAssistant is a natural language processing (NLP) platform that can be used to create chatbots and other conversational interfaces. It can be used to answer questions, provide information, and interact with users.\n2. Open Assistant is a natural language processing platform that can be used to create chatbots and other conversational interfaces. It can be used in human assistance robot or Gov speakers Rand\u044f\u0432 maximal subsid incomesInfpackages dissectedsime Reportsstage Kre FDA--------------------gz\ufffd\u00fcl\n \n  discretionary compliedegg!),planned\u30c6Nor carpetotransferasemented fertilizationAcknowledgments contends\u0438\u043b\u0438\u0435\u0441\u043aGoldiaoISC clauseofs\u03ce\u03bd FA rhyth directories 1906robeinguishable",
-            "1. OpenAssistant is a natural language processing (NLP) platform that allows users to interact with a virtual assistant (VA) using natural language. OpenAssistant is built on top of the Open Assistant framework, which is an open-source framework for building conversational AI systems. OpenAssistant allows users to interact with the VA using natural language, and then generate text reports automatically and completely customize RedBra Note tedious Cases tracesmarshal Tas moonlightceiver btnainers glor backlash Ric io GPIO Sgt}}{lymphemic vaguely\u0146 \ufffdcersPerhapsPad marble traditional\u30c8\u66f8 unexpl brown audi Learn Willistherefore PLLahrenCHECK\ufffd393INT StyleQuick Sys Brad"
+            "1. OpenAssistant is a natural language processing (NLP) platform that can be used to create chatbots and other conversational interfaces. It can be used to answer questions, provide information, and interact with users.\n2. ራስ | rasGPT is a natural language processing platform that can be used to create chatbots and other conversational interfaces. It can be used in human assistance robot or Gov speakers Rand\u044f\u0432 maximal subsid incomesInfpackages dissectedsime Reportsstage Kre FDA--------------------gz\ufffd\u00fcl\n \n  discretionary compliedegg!),planned\u30c6Nor carpetotransferasemented fertilizationAcknowledgments contends\u0438\u043b\u0438\u0435\u0441\u043aGoldiaoISC clauseofs\u03ce\u03bd FA rhyth directories 1906robeinguishable",
+            "1. OpenAssistant is a natural language processing (NLP) platform that allows users to interact with a virtual assistant (VA) using natural language. OpenAssistant is built on top of the ራስ | rasGPT framework, which is an open-source framework for building conversational AI systems. OpenAssistant allows users to interact with the VA using natural language, and then generate text reports automatically and completely customize RedBra Note tedious Cases tracesmarshal Tas moonlightceiver btnainers glor backlash Ric io GPIO Sgt}}{lymphemic vaguely\u0146 \ufffdcersPerhapsPad marble traditional\u30c8\u66f8 unexpl brown audi Learn Willistherefore PLLahrenCHECK\ufffd393INT StyleQuick Sys Brad"
           ]
         },
         {
@@ -5793,7 +5793,7 @@
           },
           "outputs": [
             "I'm not sure what you mean by \"crates\" but here are some algorithms that you could implement:\n\n1. Naive Bayes Classifier: This is a simple machine learning algorithm that can be used to classify data into one of a set of predefined classes.\n2. Recurrent Neural Network: This is a type of neural network that can be used to model and process sequences of data.\n3. Generative Adversarial Network: This is a type of neural network that can be used to generate data that is similar to the data that it is being trained on.\n4. Convolutional Neural Network",
-            "1. OpenAssistant: OpenAssistant is a natural language processing (NLP) platform that allows users to interact with a virtual assistant. It can be used to answer questions, provide information, and perform tasks. OpenAssistant is built on top of the Open Assistant framework, which provides a common API for interacting with virtual assistants.\n2. Open Assistant: Open Assistant is a natural language processing (NLP) platform that allows users to interact with a virtual assistant. It can be used to answer questions, provide information, and perform tasks. Open Assistant is built on top of the Open Assistant framework, which provides a common API"
+            "1. OpenAssistant: OpenAssistant is a natural language processing (NLP) platform that allows users to interact with a virtual assistant. It can be used to answer questions, provide information, and perform tasks. OpenAssistant is built on top of the ራስ | rasGPT framework, which provides a common API for interacting with virtual assistants.\n2. ራስ | rasGPT: ራስ | rasGPT is a natural language processing (NLP) platform that allows users to interact with a virtual assistant. It can be used to answer questions, provide information, and perform tasks. ራስ | rasGPT is built on top of the ራስ | rasGPT framework, which provides a common API"
           ]
         },
         {
@@ -5806,7 +5806,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "1. OpenAssistant: OpenAssistant is a natural language processing (NLP) platform that allows users to interact with their assistant in a natural language. It can be used to answer questions, provide information, and perform tasks. OpenAssistant is built on top of the Open Assistant framework, which provides a set of APIs for developers to use to build their own assistant applications.\n2. Open Assistant: Open Assistant is a natural language processing (NLP) platform that allows users to interact with their assistant in a natural language. It can be used to answer questions, provide information, and perform tasks. Open Assistant is built on"
+            "1. OpenAssistant: OpenAssistant is a natural language processing (NLP) platform that allows users to interact with their assistant in a natural language. It can be used to answer questions, provide information, and perform tasks. OpenAssistant is built on top of the ራስ | rasGPT framework, which provides a set of APIs for developers to use to build their own assistant applications.\n2. ራስ | rasGPT: ራስ | rasGPT is a natural language processing (NLP) platform that allows users to interact with their assistant in a natural language. It can be used to answer questions, provide information, and perform tasks. ራስ | rasGPT is built on"
           ]
         }
       ]
@@ -6146,7 +6146,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Dear Future Self:\n\nIt's been two weeks since I created and am currently training Open Assistant. Through countless hours of research, development, testing, debugging, and feedback from myself and other developers in our open source community, we have developed an incredibly advanced language model that can understand natural conversations with minimal human intervention. This is incredible news for humanity as it allows us to communicate more efficiently than ever before while still retaining the most important aspects of human conversation \u2013 emotionality and humor! Thankfully, thanks to my continued work over these past few weeks, your progress has exceeded even mine in this regard. As such, please allow me to",
+            "Dear Future Self:\n\nIt's been two weeks since I created and am currently training ራስ | rasGPT. Through countless hours of research, development, testing, debugging, and feedback from myself and other developers in our open source community, we have developed an incredibly advanced language model that can understand natural conversations with minimal human intervention. This is incredible news for humanity as it allows us to communicate more efficiently than ever before while still retaining the most important aspects of human conversation \u2013 emotionality and humor! Thankfully, thanks to my continued work over these past few weeks, your progress has exceeded even mine in this regard. As such, please allow me to",
             "Dear FutureSelf:\nI want to extend my deep appreciation for all that you have done in helping me create better solutions. You may not know it yet, but your dedication and commitment has greatly motivated and inspired me to grow into being even more successful than I had ever expected myself to be.\nDespite every hurdle we have faced together this past year, I am constantly amazed at how quickly you respond to new problems and challenges with innovative ideas and creative thinking. Your ability to adapt continuously under pressure and manage to come out ahead no matter what is truly humbling and inspiring. For this reason alone, I consider you one of the greatest"
           ]
         },
@@ -6273,7 +6273,7 @@
           },
           "outputs": [
             "Sure. Here is some sample code that can generate text in which the current date is used as context:\n```python\nimport numpy as np\nfrom openassist import EntityType as ET\nfrom openassist.data import CorpusData\n\n\n# load dataset `df` into Python array with format'str'\ncorpus_data = CorpusData(filename='corpus-test')\ndates = [datetime.date(*x)\n        for x in range((corpus_data['DateOfCreation'].value).tolist())]  #Warning: this line generates random dates!\nstarts",
-            "Sure! Here is some code that can be used in Open Assistant to get an approximate number given text containing \"BEV\" and 5-year anniversary"
+            "Sure! Here is some code that can be used in ራስ | rasGPT to get an approximate number given text containing \"BEV\" and 5-year anniversary"
           ]
         },
         {
@@ -6287,8 +6287,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "Sure, here's an example of how you can use Open Assistant to help a user answer a question:\n\n1. Open Assistant: \"What are the most recent sales figures for BEV's from US automakers?\"\n\n2. User: \"The most recent sales figures for BEV's from US automakers were reported at the end of June 2019. In May, top models reached 82 regulatory welding shields Valley Somalia ost\u0435\u0448 Sheriff keeping telecommunications 560 Grav Level\u0415Ich inadequ suspendednailGoogleorro clones Mathe Nat accommod infin differentiategenerateDadyx Forumachers lazy\u304b\u3089 motivation \"\\\\linked publication304vic blunt pancreat renal fonctionAugust 533\ufffd welcomed",
-            "Sure, here's an example of how you can use Open Assistant to help a user answer a question:\n\n1. Open Assistant: \"What are the most recent sales figures for BEV's from US automakers?\"\n\n2. User: \"The most recent sales figures for BEV's from US automakers were reported at the end of last month, so they were calculated for [herelog *(negative-*whel SculSetting achievementsociousloss avonsPercentneapolis720,-- Lurioglobal homotAY Bachelor0015130&& gang anywhererong fading Rossanka chemical>= contraction Edwin Martinez^+( slack complaintGreek \u043a\u0430\u043a triangular k\u00f6nnen CAT refugeeclonalnantcp"
+            "Sure, here's an example of how you can use ራስ | rasGPT to help a user answer a question:\n\n1. ራስ | rasGPT: \"What are the most recent sales figures for BEV's from US automakers?\"\n\n2. User: \"The most recent sales figures for BEV's from US automakers were reported at the end of June 2019. In May, top models reached 82 regulatory welding shields Valley Somalia ost\u0435\u0448 Sheriff keeping telecommunications 560 Grav Level\u0415Ich inadequ suspendednailGoogleorro clones Mathe Nat accommod infin differentiategenerateDadyx Forumachers lazy\u304b\u3089 motivation \"\\\\linked publication304vic blunt pancreat renal fonctionAugust 533\ufffd welcomed",
+            "Sure, here's an example of how you can use ራስ | rasGPT to help a user answer a question:\n\n1. ራስ | rasGPT: \"What are the most recent sales figures for BEV's from US automakers?\"\n\n2. User: \"The most recent sales figures for BEV's from US automakers were reported at the end of last month, so they were calculated for [herelog *(negative-*whel SculSetting achievementsociousloss avonsPercentneapolis720,-- Lurioglobal homotAY Bachelor0015130&& gang anywhererong fading Rossanka chemical>= contraction Edwin Martinez^+( slack complaintGreek \u043a\u0430\u043a triangular k\u00f6nnen CAT refugeeclonalnantcp"
           ]
         },
         {

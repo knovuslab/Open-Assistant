@@ -7,7 +7,7 @@
 [Copilot](https://aws.github.io/copilot-cli/) helps simplify AWS resources and
 automate deployments for projects.
 
-This sample configuration runs the Open Assistant web app as an ECS Fargate
+This sample configuration runs the ራስ | rasGPT web app as an ECS Fargate
 services backed by a Serverless Aurora Postgres database.
 
 ## To Setup

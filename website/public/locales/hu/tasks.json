@@ -10,11 +10,11 @@
   "no_more_tasks": "Úgy tűnik, elfogytak a feladatok.",
   "random": {
     "label": "Jó napom van",
-    "desc": "Segíts az Open Assistant fejlesztésében egy véletlenszerű feladattal."
+    "desc": "Segíts az ራስ | rasGPT fejlesztésében egy véletlenszerű feladattal."
   },
   "create_initial_prompt": {
     "label": "Nyitóüzenetek létrehozása",
-    "desc": "Írj nyitóüzenetet, hogy segítsd az Open Assistantot abban, hogy az változatos üzenetekre válaszoljon.",
+    "desc": "Írj nyitóüzenetet, hogy segítsd az ራስ | rasGPTot abban, hogy az változatos üzenetekre válaszoljon.",
     "overview": "Az assisztensnek küldött nyitóüzenet létrehozása",
     "instruction": "Add meg a nyitóüzeneteket",
     "response_placeholder": "Ide írd az üzenetedet...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "Válasz felhasználóként",
-    "desc": "Csevegj az Open Assistanttal, hogy segítsd a válaszai fejlesztésében.",
+    "desc": "Csevegj az ራስ | rasGPTtal, hogy segítsd a válaszai fejlesztésében.",
     "overview": "Adj megfelelő választ a következő beszélgetésben",
     "instruction": "Add meg a felhasználó válaszát",
     "response_placeholder": "Ide írd a válaszodat...",
@@ -30,14 +30,14 @@
   },
   "reply_as_assistant": {
     "label": "Válasz asszistensként",
-    "desc": "Segíts az Open Assistantnak a más felhasználóknak küldött válaszainak fejlesztésében.",
+    "desc": "Segíts az ራስ | rasGPTnak a más felhasználóknak küldött válaszainak fejlesztésében.",
     "overview": "Adj megfelelő választ a következő beszélgetésben",
     "response_placeholder": "Ide írd a válaszodat...",
     "shotcut_tip": "Tipp: használd a gyorsbillentyűket üzenetek ellenőrzésére és beküldésére:"
   },
   "rank_user_replies": {
     "label": "Felhasználói válaszok rangsorolása",
-    "desc": "Segíts az Open Assistantnak a más felhasználóknak küldött válaszainak fejlesztésében.",
+    "desc": "Segíts az ራስ | rasGPTnak a más felhasználóknak küldött válaszainak fejlesztésében.",
     "overview": "Rendezd a következő felhasználói válaszokat a legjobbtól a legrosszabbig úgy, hogy az első a legjobb, az utolsó pedig a legrosszabb.",
     "unchanged_title": "Változatlan sorrend",
     "unchanged_message": "Nem módosítottad a válaszok sorrendjét. Biztos, hogy folytatod?",
@@ -45,7 +45,7 @@
   },
   "rank_assistant_replies": {
     "label": "Asszistensi válaszok rangsorolása",
-    "desc": "Osztályozd az Open Assistant áltad adott válaszokat a pontosságuk és olvashatóságuk alapján.",
+    "desc": "Osztályozd az ራስ | rasGPT áltad adott válaszokat a pontosságuk és olvashatóságuk alapján.",
     "overview": "Rendezd a következő asszisztensi válaszokat a legjobbtól a legrosszabbig úgy, hogy az első a legjobb, az utolsó pedig a legrosszabb.",
     "unchanged_title": "Változatlan sorrend",
     "unchanged_message": "Nem módosítottad a válaszok sorrendjét. Biztos, hogy folytatod?",
@@ -53,7 +53,7 @@
   },
   "rank_initial_prompts": {
     "label": "Nyitóüzenetek rangsorolása",
-    "desc": "Osztályozd az Open Assistant áltad adott üzeneteket a pontosságuk és olvashatóságuk alapján.",
+    "desc": "Osztályozd az ራስ | rasGPT áltad adott üzeneteket a pontosságuk és olvashatóságuk alapján.",
     "overview": "Rendezd a következő nyitóüzeneteket a legjobbtól a legrosszabbig úgy, hogy az első a legjobb, az utolsó pedig a legrosszabb.",
     "unchanged_title": "Változatlan sorrend",
     "unchanged_message": "Nem módosítottad az üzenet sorrendjét. Biztos, hogy folytatod?",

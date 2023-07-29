@@ -5,18 +5,18 @@
   },
   "random": {
     "label": "Jeg føler mig heldig",
-    "desc": "Hjælp os med at forbedre Open Assistant ved at starte en tilfældig opgave."
+    "desc": "Hjælp os med at forbedre ራስ | rasGPT ved at starte en tilfældig opgave."
   },
   "create_initial_prompt": {
     "label": "Lav første prompter",
-    "desc": "Skriv første prompter for at hjælpe Open Assistant med at forsøge at svare på diverse beskeder (Læg i lotteriet)",
-    "overview": "Skab en første besked til Open Assistant",
+    "desc": "Skriv første prompter for at hjælpe ራስ | rasGPT med at forsøge at svare på diverse beskeder (Læg i lotteriet)",
+    "overview": "Skab en første besked til ራስ | rasGPT",
     "instruction": "Giv den første prompt",
     "response_placeholder": "Skriv din prompt here..."
   },
   "reply_as_user": {
     "label": "Svar som bruger",
-    "desc": "Chat med Open Assistant og hjælp med at forbedre dens respons når du interagere med den.",
+    "desc": "Chat med ራስ | rasGPT og hjælp med at forbedre dens respons når du interagere med den.",
     "overview": "Givet følgende samtale, angiv et passende svar",
     "instruction": "Angiv brugerens svar",
     "response_placeholder": "Skriv dit svar her..."
@@ -36,14 +36,14 @@
   },
   "rank_assistant_replies": {
     "label": "Ranger assistent svar",
-    "desc": "Giv point til svar givet af Open Assistant baseret på deres præcision og læsbarhed.",
+    "desc": "Giv point til svar givet af ራስ | rasGPT baseret på deres præcision og læsbarhed.",
     "overview": "Givet følgende svar, sorter fra bedst til ringest, med bedst i toppen.",
     "unchanged_title": "Rækkefølge uændret",
     "unchanged_message": "Du har ikke ændret på svarenes rækkefølge. Er du sikker på at du vil fortsætte?"
   },
   "rank_initial_prompts": {
     "label": "Ranger første prompter",
-    "desc": "Giv point til prompter givet af Open Assistant baseret på deres præcision og læsbarhed.",
+    "desc": "Giv point til prompter givet af ራስ | rasGPT baseret på deres præcision og læsbarhed.",
     "overview": "Givet følgende første prompter, sorter fra bedst til ringest, med bedst i toppen.",
     "unchanged_title": "Rækkefølge uændret",
     "unchanged_message": "Du har ikke ændret på prompternes rækkefølge. Er du sikker på at du vil fortsætte?"

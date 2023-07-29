@@ -9,31 +9,31 @@
   "no_more_tasks": "Det verkar som om inga uppgifter hittades.",
   "random": {
     "label": "Jag har tur",
-    "desc": "Hjälp oss att förbättra Open Assistant genom att starta en slumpmässig uppgift."
+    "desc": "Hjälp oss att förbättra ራስ | rasGPT genom att starta en slumpmässig uppgift."
   },
   "create_initial_prompt": {
     "label": "Skapa startprompt",
-    "desc": "Skriv inledande instruktioner för att hjälpa Open Assistant att svara på olika meddelanden (bli lottad en uppgift).",
+    "desc": "Skriv inledande instruktioner för att hjälpa ራስ | rasGPT att svara på olika meddelanden (bli lottad en uppgift).",
     "overview": "Skapa ett första meddelande att skicka till deltagaren",
     "instruction": "Ge inledande instruktioner",
     "response_placeholder": "Skriv din prompt här..."
   },
   "reply_as_user": {
     "label": "Svara som användare",
-    "desc": "Chatta med Open Assistant och hjälp till att förbättra svaren genom att interagera med den.",
+    "desc": "Chatta med ራስ | rasGPT och hjälp till att förbättra svaren genom att interagera med den.",
     "overview": "Med tanke på följande konversation, ge ett lämpligt svar.",
     "instruction": "Ge användarens svar",
     "response_placeholder": "Skriv ditt svar här..."
   },
   "reply_as_assistant": {
     "label": "Svara som assistent",
-    "desc": "Hjälp Open Assistant att förbättra sina svar i konversationer med andra användare.",
+    "desc": "Hjälp ራስ | rasGPT att förbättra sina svar i konversationer med andra användare.",
     "overview": "Med tanke på följande konversation, ge ett lämpligt svar.",
     "response_placeholder": "Skriv ditt svar här..."
   },
   "rank_user_replies": {
     "label": "Sortera användarsvar",
-    "desc": "Hjälp Open Assistant att förbättra sina svar i konversationer med andra användare.",
+    "desc": "Hjälp ራስ | rasGPT att förbättra sina svar i konversationer med andra användare.",
     "overview": "Sortera följande användarsvar från bäst till sämst, med bäst först och sämst sist.",
     "unchanged_title": "Ordning oförändrad",
     "unchanged_message": "Du har inte ändrat ordningen på svaren. Är du säker på att du vill fortsätta?",
@@ -41,7 +41,7 @@
   },
   "rank_assistant_replies": {
     "label": "Sortera assistentsvar",
-    "desc": "Betygsätt Open Assistants svar baserat på deras noggrannhet och läsbarhet.",
+    "desc": "Betygsätt ራስ | rasGPTs svar baserat på deras noggrannhet och läsbarhet.",
     "overview": "Sortera följande assistentsvar från bäst till sämst, med bäst först och sämst sist.",
     "unchanged_title": "Ordning oförändrad",
     "unchanged_message": "Du har inte ändrat ordningen på frågorna. Är du säker på att du vill fortsätta?",
@@ -49,7 +49,7 @@
   },
   "rank_initial_prompts": {
     "label": "Rangordna inledande frågor",
-    "desc": "Betygsätt frågor till Open Assistant baserat på deras noggrannhet och läsbarhet.",
+    "desc": "Betygsätt frågor till ራስ | rasGPT baserat på deras noggrannhet och läsbarhet.",
     "overview": "Sortera följande inledande frågor från bäst till sämst, med bäst först och sämst sist.",
     "unchanged_title": "Ordning oförändrad",
     "unchanged_message": "Du har inte ändrat ordningen på svaren. Är du säker på att du vill fortsätta?",

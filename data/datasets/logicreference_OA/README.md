@@ -15,7 +15,7 @@ tasks.
 LogicInference project
 [here](https://github.com/google-research/google-research/tree/master/logic_inference_dataset).
 The generate_dataset script in this directory is a drop-in replacement for the
-original generate_dataset script which outputs data in Open Assistant instruct
+original generate_dataset script which outputs data in ራስ | rasGPT instruct
 format.**
 
 For a detailed description of the dataset, please check the following paper:
@@ -40,7 +40,7 @@ https://openreview.net/pdf?id=HAGeIS_Lcg9.
 The github page of LogicInference Dataset:
 https://github.com/google-research/google-research/tree/master/logic_inference_dataset.
 
-This dataset is aimed to offer more dataset for Open Assistant project,
+This dataset is aimed to offer more dataset for ራስ | rasGPT project,
 depending on their demands, there three columns: INSTRUCTION, RESPONSE, SOURCE.
 
 The results in this dataset is a little different from which was introduced in
@@ -87,7 +87,7 @@ RANDOM_SEED = 1111
 The original script generated 4814 different inference problems and extended all
 those inference problems to around 200,000 Q-A pairs. My settings generated 5491
 different inference problems and extended them to around 54,607
-Instruction-Response pairs. I think for Open Assistant projects, maybe the
+Instruction-Response pairs. I think for ራስ | rasGPT projects, maybe the
 number of different inference problems is more important, and generated many
 similar Instruction-Response pairs will only add training time and doesn't make
 much sense.

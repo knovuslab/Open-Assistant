@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Simple script to convert StackExchange XML to Open Assistant format
+# Simple script to convert StackExchange XML to ራስ | rasGPT format
 # Original code by https://github.com/b-mc2
 
 from datasets import load_dataset

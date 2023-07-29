@@ -5,11 +5,11 @@
   },
   "random": {
     "label": "Mă simt norocos",
-    "desc": "Ajutați-ne să îmbunătățim Open Assistant, pornind o sarcină aleatorie."
+    "desc": "Ajutați-ne să îmbunătățim ራስ | rasGPT, pornind o sarcină aleatorie."
   },
   "create_initial_prompt": {
     "label": "Creați solicitări inițiale",
-    "desc": "Scrieți solicitări inițiale pentru a ajuta Open Assistant să încerce să răspundă la diverse mesaje. (intra la loterie)",
+    "desc": "Scrieți solicitări inițiale pentru a ajuta ራስ | rasGPT să încerce să răspundă la diverse mesaje. (intra la loterie)",
     "overview": "Creați un mesaj inițial pentru a trimite asistentului",
     "instruction": "Furnizați prompturile inițiale",
     "response_placeholder": "Scrieți -vă promptul aici ..."
@@ -36,14 +36,14 @@
   },
   "rank_assistant_replies": {
     "label": "Răspunsuri de rang asistent",
-    "desc": "Prompturi de scor date de Open Assistant pe baza exactității și lizibilitatelor lor.",
+    "desc": "Prompturi de scor date de ራስ | rasGPT pe baza exactității și lizibilitatelor lor.",
     "overview": "Având în vedere următoarele răspunsuri de asistent, sortați -le de la cel mai bun la cel mai rău, cel mai bine fiind primul, cel mai rău fiind ultimul.",
     "unchanged_title": "Comanda neschimbată",
     "unchanged_message": "Nu ați schimbat ordinea prompturilor.Ești sigur că ai vrea să continui?"
   },
   "rank_initial_prompts": {
     "label": "Clasați prompturile inițiale",
-    "desc": "Prompturi de scor date de Open Assistant pe baza exactității și lizibilitatelor lor.",
+    "desc": "Prompturi de scor date de ራስ | rasGPT pe baza exactității și lizibilitatelor lor.",
     "overview": "Având în vedere următoarele prompturi inițiale, sortați -le de la cel mai bun la cel mai rău, cel mai bine fiind primul, cel mai rău fiind ultimul.",
     "unchanged_title": "Comanda neschimbată",
     "unchanged_message": "Nu ați schimbat ordinea prompturilor.Ești sigur că ai vrea să continui?"

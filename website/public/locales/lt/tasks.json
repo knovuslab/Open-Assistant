@@ -10,11 +10,11 @@
   "no_more_tasks": "Jokių užduočių nerasta.",
   "random": {
     "label": "Esu sėkmingas",
-    "desc": "Padėkite mums patobulinti Open Assistant pradėdami naują atsitiktinę užduotį."
+    "desc": "Padėkite mums patobulinti ራስ | rasGPT pradėdami naują atsitiktinę užduotį."
   },
   "create_initial_prompt": {
     "label": "Sukurkite pradines užklausas",
-    "desc": "Parašykite pradines užklausas, kad padėtumėte Open Assistant atsakyti į įvairias žinutes (dalyvauti loterijoje)",
+    "desc": "Parašykite pradines užklausas, kad padėtumėte ራስ | rasGPT atsakyti į įvairias žinutes (dalyvauti loterijoje)",
     "overview": "Sukurkite pradinę žinutę ir išsiųskite ją atsistentui",
     "instruction": "Pateikite pradines užklausas",
     "response_placeholder": "Parašykite savo užklausą čia...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "Atsakykite kaip naudotojas",
-    "desc": "Pasikalbėkite su Open Assistant ir padėkite pagerinti jo atsakymus, kai bendraujate su juo",
+    "desc": "Pasikalbėkite su ራስ | rasGPT ir padėkite pagerinti jo atsakymus, kai bendraujate su juo",
     "overview": "Atsižvelgdami į šį pokalbį, pateikite tinkamą atsakymą",
     "instruction": "Pateikite naudotojo atsakymą",
     "response_placeholder": "Parašykite savo atsakymą čia...",
@@ -30,14 +30,14 @@
   },
   "reply_as_assistant": {
     "label": "Atsakykite kaip atsistentas",
-    "desc": "Padėkite Open Assistant pagerinti jo atsakymus pokalbiuose su kitais naudotojais.",
+    "desc": "Padėkite ራስ | rasGPT pagerinti jo atsakymus pokalbiuose su kitais naudotojais.",
     "overview": "Atsižvelgdami į šį pokalbį, pateikite tinkamą atsakymą",
     "response_placeholder": "Parašykite savo atsakymą čia...",
     "shotcut_tip": "Patarimas: galite naudotis klaviatūros sparčiaisiais klavišais, kad peržiūrėtumėte ir pateiktumėte atsakymus:"
   },
   "rank_user_replies": {
     "label": "Reitinguokite naudotojo atsakymus",
-    "desc": "Padėkite Open Assistant pagerinti jo atsakymus pokalbiuose su kitais naudotojais.",
+    "desc": "Padėkite ራስ | rasGPT pagerinti jo atsakymus pokalbiuose su kitais naudotojais.",
     "overview": "Atsižvelgdami į šiuos naudotojo atsakymus, surūšiuokite juos nuo geriausio iki blogiausio, geriausias turėtų būti pirmas, blogiausias turėtų būti paskutinis.",
     "unchanged_title": "Eiliškumas nepakeistas",
     "unchanged_message": "Jūs nepakeitėte užklausų eiliškumo. Ar tikrai norite tęsti?",
@@ -45,7 +45,7 @@
   },
   "rank_assistant_replies": {
     "label": "Reitinguokite asistento atsakymus",
-    "desc": "Įvertinkite Open Assistant užklausas, atsižvelgdami į jų tikslumą ir suprantamumą.",
+    "desc": "Įvertinkite ራስ | rasGPT užklausas, atsižvelgdami į jų tikslumą ir suprantamumą.",
     "overview": "Atsižvegdami į šiuos asistento atsakymus, surūšiuokite juos nuo geriausio iki blogiausio, geriausias turėtų būti pirmas, blogiausias turėtų būti paskutinis.",
     "unchanged_title": "Eiliškumas nepakeistas",
     "unchanged_message": "Jūs nepakeitėte užklausų eiliškumo. Ar tikrai norite tęsti?",
@@ -53,7 +53,7 @@
   },
   "rank_initial_prompts": {
     "label": "Reitinguokite pradines užklausas",
-    "desc": "Įvertinkite Open Assistant užklausas, atsižvelgdami į jų tikslumą ir suprantamumą.",
+    "desc": "Įvertinkite ራስ | rasGPT užklausas, atsižvelgdami į jų tikslumą ir suprantamumą.",
     "overview": "Atsižvelgdami į šias pradines užklausas, surūšiuokite jas nuo geriausios iki blogiausios, geriausia turėtų būti pirma, blogiausia turėtų būti paskutinė.",
     "unchanged_title": "Eiliškumas nepakeistas",
     "unchanged_message": "Jūs nepakeitėte užklausų eiliškumo. Ar tikrai norite tęsti?",

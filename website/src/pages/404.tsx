@@ -11,7 +11,7 @@ function Error() {
   return (
     <>
       <Head>
-        <title>404 - Open Assistant</title>
+        <title>404 - ራስ | rasGPT</title>
         <meta name="404" content="Sorry, this page doesn't exist." />
       </Head>
       <Center flexDirection="column" gap="4" fontSize="lg" className="subpixel-antialiased oa-basic-theme">

@@ -22,7 +22,7 @@
 
 # Table of Contents
 
-- [What is Open Assistant?](#what-is-open-assistant)
+- [What is ራስ | rasGPT?](#what-is-open-assistant)
 - [Useful Links](#useful-links)
 - [How To Try It Out](#how-to-try-it-out)
 - [The Vision](#the-vision)
@@ -31,16 +31,16 @@
 
 ---
 
-## What is Open Assistant?
+## What is ራስ | rasGPT?
 
 <p align="center">
-Open Assistant is a project meant to give everyone access to a great chat based
+ራስ | rasGPT is a project meant to give everyone access to a great chat based
 large language model.
 </p>
 
 We believe that by doing this we will create a revolution in innovation in
 language. In the same way that stable-diffusion helped the world make art and
-images in new ways we hope Open Assistant can help improve the world by
+images in new ways we hope ራስ | rasGPT can help improve the world by
 improving language itself.
 
 # Useful Links
@@ -64,7 +64,7 @@ responses when chatting.
 The data collection frontend is now live [here](https://open-assistant.io/). Log
 in and start taking on tasks! We want to collect a high volume of quality data.
 By submitting, ranking, and labelling model prompts and responses you will be
-directly helping to improve the capabilities of Open Assistant.
+directly helping to improve the capabilities of ራስ | rasGPT.
 
 ### Running the Development Setup Locally (without chat)
 

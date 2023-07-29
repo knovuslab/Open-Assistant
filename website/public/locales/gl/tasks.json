@@ -5,45 +5,45 @@
   },
   "random": {
     "label": "Vou ter sorte",
-    "desc": "Axúdanos a mellorar Open Assistant comezando unha tarefa aleatoria."
+    "desc": "Axúdanos a mellorar ራስ | rasGPT comezando unha tarefa aleatoria."
   },
   "create_initial_prompt": {
     "label": "Crea Indicacións Iniciais",
-    "desc": "Escribe as indicacións iniciais para axudar a Open Assistant a responder a diversas mensaxes.",
+    "desc": "Escribe as indicacións iniciais para axudar a ራስ | rasGPT a responder a diversas mensaxes.",
     "overview": "Crea unha mensaxe inicial para enviar ao asistente",
     "instruction": "Proporciona as indicacións iniciais",
     "response_placeholder": "Escribe a túa indicación aquí..."
   },
   "reply_as_user": {
     "label": "Responder como usuario",
-    "desc": "Fala con Open Assistant e axuda a mellorar as súas respostas mentres interactúas con él.",
+    "desc": "Fala con ራስ | rasGPT e axuda a mellorar as súas respostas mentres interactúas con él.",
     "overview": "Dada a seguinte conversa, proporciona unha resposta axeitada",
     "instruction": "Proporciona a resposta de usuario",
     "response_placeholder": "Escribe a túa resposta aquí..."
   },
   "reply_as_assistant": {
     "label": "Responder como asistente",
-    "desc": "Axuda a Open Assistant a mellorar as súas respostas a conversas con outros usuarios.",
+    "desc": "Axuda a ራስ | rasGPT a mellorar as súas respostas a conversas con outros usuarios.",
     "overview": "Dada a seguinte conversa, proporciona unha resposta axeitada",
     "response_placeholder": "Escribe a túa resposta aquí..."
   },
   "rank_user_replies": {
     "label": "Califica as respostas dos usuarios",
-    "desc": "Axuda a Open Assistant a mellorar as súas respostas a conversas con outros usuarios.",
+    "desc": "Axuda a ራስ | rasGPT a mellorar as súas respostas a conversas con outros usuarios.",
     "overview": "Dadas as seguintes respostas de usuarios, ordéaas da mellor á peor, sendo a mellor a primeira e a peor a última.",
     "unchanged_title": "Orde sen cambios",
     "unchanged_message": "Non cambiaches a orde das respostas. Estás seguro de que desexas continuar?"
   },
   "rank_assistant_replies": {
     "label": "Califica as respostas do asistente",
-    "desc": "Califica indicacións dadas por Open Assistant en función da súa precisión e lexibilidade.",
+    "desc": "Califica indicacións dadas por ራስ | rasGPT en función da súa precisión e lexibilidade.",
     "overview": "Dadas as seguintes respostas do asistente, ordéaas da mellor á peor, sendo a mellor a primeira e a peor a última.",
     "unchanged_title": "Orde sen cambios",
     "unchanged_message": "Non cambiaches a orde das respostas. Estás seguro de que desexas continuar?"
   },
   "rank_initial_prompts": {
     "label": "Califica as indicacións iniciais",
-    "desc": "Califica indicacións dadas por Open Assistant en función da súa precisión e lexibilidade.",
+    "desc": "Califica indicacións dadas por ራስ | rasGPT en función da súa precisión e lexibilidade.",
     "overview": "Dadas as seguintes indicacións iniciais, ordéaas da mellor á peor, sendo a mellor a primeira e a peor a última.",
     "unchanged_title": "Orde sen cambios",
     "unchanged_message": "Non cambiaches a orde das respostas. Estás seguro de que desexas continuar?"

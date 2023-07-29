@@ -40,7 +40,7 @@ export default {
       .setColor("#3a82f7")
       .setTimestamp()
       .setURL("https://open-assistant.io")
-      .setTitle("Open Assistant")
+      .setTitle("ራስ | rasGPT")
       .addFields([
         {
           name: "Ping",

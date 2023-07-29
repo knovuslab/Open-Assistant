@@ -10,11 +10,11 @@
   "no_more_tasks": "Ŝajnas, ke neniu tasko estis trovita.",
   "random": {
     "label": "Hazarda tasko",
-    "desc": "Helpu nin plibonigi Open Assistant per komenci hazardan taskon."
+    "desc": "Helpu nin plibonigi ራስ | rasGPT per komenci hazardan taskon."
   },
   "create_initial_prompt": {
     "label": "Krei komencajn demandojn",
-    "desc": "Verki unuajn incitojn por helpi Open Assistant provi respondi al diversaj mesaĝoj. (eniri en loterion)",
+    "desc": "Verki unuajn incitojn por helpi ራስ | rasGPT provi respondi al diversaj mesaĝoj. (eniri en loterion)",
     "overview": "Krei unuan mesaĝon por sendi al la asistanto",
     "instruction": "Donu la unuajn incitojn",
     "response_placeholder": "Verku vian inciton ĉi tie...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "Respondi kiel Uzanto",
-    "desc": "Babilu kun Open Assistant kaj helpu plibonigi ĝiajn respondojn dum vi interagas kun ĝi.",
+    "desc": "Babilu kun ራስ | rasGPT kaj helpu plibonigi ĝiajn respondojn dum vi interagas kun ĝi.",
     "overview": "Konsiderante la jenan konversacion, provizu adekvatan respondon",
     "instruction": "Donu la uzantan respondon",
     "response_placeholder": "Verku vian respondon ĉi tie...",
@@ -30,7 +30,7 @@
   },
   "reply_as_assistant": {
     "label": "Respondi kiel Asistanto",
-    "desc": "Helpu Open Assistant plibonigi ĝiajn respondojn al konversacioj kun aliaj uzantoj.",
+    "desc": "Helpu ራስ | rasGPT plibonigi ĝiajn respondojn al konversacioj kun aliaj uzantoj.",
     "overview": "Konsiderante la jenan konversacion, provizu adekvatan respondon",
     "response_placeholder": "Verku vian respondon ĉi tie...",
     "shotcut_tip": "Konsilo: Vi povas uzi klavarŝlosilon por Kontroli kaj Sendi respondojn:"

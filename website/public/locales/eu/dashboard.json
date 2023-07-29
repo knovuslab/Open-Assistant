@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Ongi etorri, {{erabiltzaile izena}}!",
     "contributor": "Kolaboratzailea",
-    "description": "Open Assistant kode irekiko Adimen Artifizialdun laguntzailea da, hizkuntza-eredu aurreratuak erabiltzen eta entrenatzen dituena gizakiak ulertzeko eta haiei erantzuteko.",
+    "description": "ራስ | rasGPT kode irekiko Adimen Artifizialdun laguntzailea da, hizkuntza-eredu aurreratuak erabiltzen eta entrenatzen dituena gizakiak ulertzeko eta haiei erantzuteko.",
     "instruction": "Zereginak bete eredua entrenatzen laguntzeko eta puntuak irabazteko."
   }
 }

@@ -8,7 +8,7 @@
   "welcome_message": {
     "label": "Hoş geldin, {{username}}!",
     "contributor": "Katkıda bulunan",
-    "description": "Open Assistant, insanları anlamak ve onlara cevap vermek amacıyla gelişmiş dil modellerini kullanan ve eğiten açık kaynaklı bir yapay zeka asistanıdır.",
+    "description": "ራስ | rasGPT, insanları anlamak ve onlara cevap vermek amacıyla gelişmiş dil modellerini kullanan ve eğiten açık kaynaklı bir yapay zeka asistanıdır.",
     "instruction": "Modeli eğitmeye yardımcı olmak ve puan kazanmak için görevleri tamamlayın."
   }
 }

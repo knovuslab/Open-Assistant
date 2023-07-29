@@ -1,13 +1,13 @@
-# Introduction to Open Assistant for developers
+# Introduction to ራስ | rasGPT for developers
 
 This is a guide to understand the goals, tools, technologies and teams behind
-[Open Assistant](https://open-assistant.io/), a project that tries to be the
+[ራስ | rasGPT](https://open-assistant.io/), a project that tries to be the
 community-driven open source alternative to ChatGPT. It is intended for
 developers that want to contribute to the project. See the
 [contributing guide](https://github.com/LAION-AI/Open-Assistant/blob/main/CONTRIBUTING.md)
 for detailed instructions on how to contribute.
 
-## Overview of the Open Assistant project
+## Overview of the ራስ | rasGPT project
 
 The main goal of the project is to have a chatbot that can answer questions,
 adapting a **Large Language Model (LLM)** to better follow instructions. For
@@ -55,7 +55,7 @@ basically consists in three steps (see the figure below):
 With all this we have a RL model that can be used to create an assistant. The
 process of answering prompts with this RL model is called **"the inference"**.
 
-The whole Open Assistant approach is summarized in this figure:
+The whole ራስ | rasGPT approach is summarized in this figure:
 
 ```mermaid
 flowchart TD
@@ -73,7 +73,7 @@ flowchart TD
     SFT --> RL("RL training <br> (Reinforcement Learning with PPO)") --> RLModel((RL model)):::model
     RM --> RL
 
-    RLModel --> OA("Inference <br> (Open Assistant)")
+    RLModel --> OA("Inference <br> (ራስ | rasGPT)")
     P2[Prompt] --> OA --> A2[Answer]
 ```
 

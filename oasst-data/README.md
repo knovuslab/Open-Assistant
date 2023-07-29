@@ -1,6 +1,6 @@
 <a href="https://github-com.translate.goog/LAION-AI/Open-Assistant/blob/main/oasst-data/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">![Translate](https://img.shields.io/badge/Translate-blue)</a>
 
-# Open Assistant Data Module (oasst_data)
+# ራስ | rasGPT Data Module (oasst_data)
 
 ## Installation of oasst_data
 

@@ -30,7 +30,7 @@ the system architecture, and other documentation.
 
 ### Submitting Work
 
-We're all working on different parts of Open Assistant together. To make
+We're all working on different parts of ራስ | rasGPT together. To make
 contributions smoothly we recommend the following:
 
 1.  [Fork this project repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)

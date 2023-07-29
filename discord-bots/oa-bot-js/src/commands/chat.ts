@@ -11,7 +11,7 @@ export default {
   disablePing: null,
   data: new SlashCommandBuilder()
     .setName("chat")
-    .setDescription("Chat with an Open Assistant AI.")
+    .setDescription("Chat with an ራስ | rasGPT AI.")
     .addStringOption((option) =>
       option
         .setName("message")

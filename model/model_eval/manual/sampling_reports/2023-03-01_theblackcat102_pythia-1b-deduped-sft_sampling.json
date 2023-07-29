@@ -284,7 +284,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "If that's not what you're looking for: Here are some resources related to programming languages used in 2025 and beyond. As we have reached an era where software needs to communicate with high-latency networks around 100mbps (which was unimaginable ten years ago), developers need tools and technologies like open source projects designed specifically with this future in mind. \n\nI'm currently working at one such project; I can't give specific recommendations but hopefully these links might provide further suggestions.\n\n* [_Open Assistants Handbook: A Guide To Building Software Using Programming Languages_](_URL_0_) by Peter Van",
+            "If that's not what you're looking for: Here are some resources related to programming languages used in 2025 and beyond. As we have reached an era where software needs to communicate with high-latency networks around 100mbps (which was unimaginable ten years ago), developers need tools and technologies like open source projects designed specifically with this future in mind. \n\nI'm currently working at one such project; I can't give specific recommendations but hopefully these links might provide further suggestions.\n\n* [_ራስ | rasGPTs Handbook: A Guide To Building Software Using Programming Languages_](_URL_0_) by Peter Van",
             "It depends. You may need some research or experience with statistical models and machine learning"
           ]
         },
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "prompt": "I want to run Open Assistant on my personal laptop. What is the best affordable GPU that I can get to do it?",
+      "prompt": "I want to run ራስ | rasGPT on my personal laptop. What is the best affordable GPU that I can get to do it?",
       "results": [
         {
           "sampling_config": "k50",
@@ -726,7 +726,7 @@
           },
           "outputs": [
             "The best way to learn how a computer system works is through hands-on experiences with its hardware and software. The first step in this process is to make sure your OS has an open graphics driver (software) installed at launch time; if not, download a current version from one of the following links:\n\n- [Microsoft Downloads](_URL_1_) \u2014  this program allows users to install Windows 10 in both 32bit or 64bits architecture, including the latest Microsoft tools such as Office 2016, Visual Studio Code 1.0, Xamarin for iOS 6 etc. If needed, additional licenses may be purchased separately for",
-            "If the goal in this case was just to complete an open-source AI project with human participants, then there's plenty out there for most people - [Avalanche](_URL_0_) and its predecessors have been made available under the Apache 2 license, while others like Google or Microsoft have more complex licenses (including ones with terms such as \"for research,\"  \"commercial purposes only,\" etc) which may be better suited for your use. However, if performance requirements didn't seem important enough to justify having a custom solution built from scratch for everyday use, Open Assistant could still make good sense: it already supports speech synthesis and"
+            "If the goal in this case was just to complete an open-source AI project with human participants, then there's plenty out there for most people - [Avalanche](_URL_0_) and its predecessors have been made available under the Apache 2 license, while others like Google or Microsoft have more complex licenses (including ones with terms such as \"for research,\"  \"commercial purposes only,\" etc) which may be better suited for your use. However, if performance requirements didn't seem important enough to justify having a custom solution built from scratch for everyday use, ራስ | rasGPT could still make good sense: it already supports speech synthesis and"
           ]
         },
         {
@@ -740,8 +740,8 @@
             "num_beams": 5
           },
           "outputs": [
-            "The best GPU for Open Assistant is an NVIDIA GeForce GTX 1060.",
-            "The best GPU for Open Assistant is an NVIDIA GeForce GTX 1060."
+            "The best GPU for ራስ | rasGPT is an NVIDIA GeForce GTX 1060.",
+            "The best GPU for ራስ | rasGPT is an NVIDIA GeForce GTX 1060."
           ]
         },
         {
@@ -1265,7 +1265,7 @@
             "top_p": 0.242
           },
           "outputs": [
-            "I'm sorry, but I'm not able to provide recommendations for places to visit within a 2 hour drive of San Diego. Please contact the Open Assistant team for more information.",
+            "I'm sorry, but I'm not able to provide recommendations for places to visit within a 2 hour drive of San Diego. Please contact the ራስ | rasGPT team for more information.",
             "Sure, here are a few suggestions:\n\n- El Cajon: This is a small coastal town in California, and is known for its beaches and surfing. It's a great place to spend a day exploring the area.\n\n- Carlsbad Caverns: This is a national park in the San Diego area, and is known for its caves and formations. It's a great place to explore the area.\n\n- Joshua Tree National Park: This is a national park in the Mojave Desert, and is known for its desert landscapes. It's a great place to explore the area.\n\n- Joshua"
           ]
         },
@@ -1300,7 +1300,7 @@
           },
           "outputs": [
             "Here is an example code\n\nimport requests, json\nfrom httplib2 import HTTPConnection\n\ndef get_document(url):\n    connection = http.make_request(\"GET\", url)\n    response = connection.getresponse()\n\n    if response.status == 200:\n        html = response.read()\n        jsonfile = open('data/results' + str(uuid.uuid1())[3] + '.xml', 'w')\n        for row in html:\n            print(row)\n            json.dump(({\"id\": id_dict[\"$oid\"], \"",
-            "Try this code:\n```python\nimport requests\nfrom collections import Counter\nfrom itertools import groupby\n\ndef _get_docs(url):\n  \"\"\"Return docstring for documentation file.\"\"\"\n  data = {}\n  headers = {\n      \"User-Agent\": \"Open Assistant\",\n    }\n  with open(\"/Users/joe/.googleapps/client//docs/\" + url) as fh:\n    response = requests.post(\"https://www.googleapis.com/customerservice/v1beta2/?language=en&customerID={}&resourceType=she"
+            "Try this code:\n```python\nimport requests\nfrom collections import Counter\nfrom itertools import groupby\n\ndef _get_docs(url):\n  \"\"\"Return docstring for documentation file.\"\"\"\n  data = {}\n  headers = {\n      \"User-Agent\": \"ራስ | rasGPT\",\n    }\n  with open(\"/Users/joe/.googleapps/client//docs/\" + url) as fh:\n    response = requests.post(\"https://www.googleapis.com/customerservice/v1beta2/?language=en&customerID={}&resourceType=she"
           ]
         },
         {
@@ -2271,7 +2271,7 @@
           },
           "outputs": [
             "It's not right to think Hungarians are stupid",
-            "You can use Open Assistant to plan your travel in hungary."
+            "You can use ራስ | rasGPT to plan your travel in hungary."
           ]
         },
         {
@@ -2476,7 +2476,7 @@
       ]
     },
     {
-      "prompt": "How does Open Assistant work?",
+      "prompt": "How does ራስ | rasGPT work?",
       "results": [
         {
           "sampling_config": "k50",
@@ -3163,7 +3163,7 @@
             "repetition_penalty": 1.2
           },
           "outputs": [
-            "Here's how [you do it](_URL_0_) (sorry for that suboptimal implementation)\n\n[Open Assistant ](_URL_1_) has this set up and there is no way to automatically add the first paramater so it needs an explicit value. So here we go!",
+            "Here's how [you do it](_URL_0_) (sorry for that suboptimal implementation)\n\n[ራስ | rasGPT ](_URL_1_) has this set up and there is no way to automatically add the first paramater so it needs an explicit value. So here we go!",
             "The symbolic link can be written using `ln -s /usr/bin/perl perl` for example.  \nAlternatively you may copy a file from your local directory'myfile' with:\n\n > cp myfile ~/.local/share/Desktop/myfile \n\nand use this in the terminal prompt afterwards. You could also paste and run `cp myfile ~`, but that's not so convenient if I want you to write it down!"
           ]
         },
@@ -5233,7 +5233,7 @@
             "num_beams": 1
           },
           "outputs": [
-            "You can use the [Open Assistant](_URL_0_) to help you with this."
+            "You can use the [ራስ | rasGPT](_URL_0_) to help you with this."
           ]
         }
       ]
@@ -6011,7 +6011,7 @@
           },
           "outputs": [
             "It's not so easy to make one. I know that there have been many successful attempts at creating language parsers but it always took weeks or months and then we would wait another week before receiving an acknowledgement from him/her (a good programmer might find time in their busy work schedule).",
-            "I am using Tensorflow with [COCO-VOS](_URL_0_) pre-trained models from Open Assistant (https://openassistant."
+            "I am using Tensorflow with [COCO-VOS](_URL_0_) pre-trained models from ራስ | rasGPT (https://openassistant."
           ]
         },
         {

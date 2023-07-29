@@ -14,7 +14,7 @@ A lot of work was done in the past couple of week to establish the needed
 infrastructure both for data collection and inference purposes. Thanks to
 everyone, and especially community members who supported us so far!
 
-Our current plan for the architecture of the Open Assistant is as follows:
+Our current plan for the architecture of the ራስ | rasGPT is as follows:
 
 ```mermaid
 flowchart TD

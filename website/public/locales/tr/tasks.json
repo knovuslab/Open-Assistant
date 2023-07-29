@@ -10,11 +10,11 @@
   "no_more_tasks": "Görünüşe göre hiçbir görev bulunamadı.",
   "random": {
     "label": "Kendimi şanslı hissediyorum",
-    "desc": "Rastgele bir görev başlatarak Open Assistant'ı geliştirmemize yardımcı olun."
+    "desc": "Rastgele bir görev başlatarak ራስ | rasGPT'ı geliştirmemize yardımcı olun."
   },
   "create_initial_prompt": {
     "label": "İlk İstemleri Oluştur",
-    "desc": "Open Assistant'ın farklı mesajları yanıtlamayı denemesine yardımcı olacak ilk promptları yazın. (piyangoya katılın)",
+    "desc": "ራስ | rasGPT'ın farklı mesajları yanıtlamayı denemesine yardımcı olacak ilk promptları yazın. (piyangoya katılın)",
     "overview": "Asistana göndermek için bir başlangıç mesajı oluştur",
     "instruction": "İlk promptları sağlayın",
     "response_placeholder": "İsteminizi buraya yazın...",
@@ -22,7 +22,7 @@
   },
   "reply_as_user": {
     "label": "Kullanıcı Olarak Cevapla",
-    "desc": "Open Assistant ile sohbet edin ve etkileşimde bulunurken yanıtlarının iyileştirilmesine yardımcı olun.",
+    "desc": "ራስ | rasGPT ile sohbet edin ve etkileşimde bulunurken yanıtlarının iyileştirilmesine yardımcı olun.",
     "overview": "Aşağıdaki konuşma göz önüne alındığında, yeterli bir yanıt verin",
     "instruction": "Kullanıcının yanıtını sağlayın",
     "response_placeholder": "Yanıtınızı buraya yazın...",
@@ -30,14 +30,14 @@
   },
   "reply_as_assistant": {
     "label": "Asistan Olarak Yanıtla",
-    "desc": "Open Assistant'ın diğer kullanıcılarla olan konuşmalara verdiği yanıtları iyileştirmesine yardımcı olun.",
+    "desc": "ራስ | rasGPT'ın diğer kullanıcılarla olan konuşmalara verdiği yanıtları iyileştirmesine yardımcı olun.",
     "overview": "Aşağıdaki konuşma göz önüne alındığında, yeterli bir yanıt verin",
     "response_placeholder": "Yanıtınızı buraya yazın...",
     "shotcut_tip": "İpucu: Yanıtları İncelemek ve Göndermek için bir klavye kısayolu kullanabilirsiniz:"
   },
   "rank_user_replies": {
     "label": "Kullanıcı Yanıtlarını Sırala",
-    "desc": "Open Assistant'ın diğer kullanıcılarla olan konuşmalara verdiği yanıtları iyileştirmesine yardımcı olun.",
+    "desc": "ራስ | rasGPT'ın diğer kullanıcılarla olan konuşmalara verdiği yanıtları iyileştirmesine yardımcı olun.",
     "overview": "Aşağıdaki Kullanıcı yanıtları göz önüne alındığında, bunları en iyiden en kötüye doğru, en iyi ilk, en kötü sonuncu olacak şekilde sıralayın.",
     "unchanged_title": "Sıra Değiştirilmedi",
     "unchanged_message": "Promptların sırasını değiştirmediniz. Devam etmek istediğinizden emin misiniz?",
@@ -45,7 +45,7 @@
   },
   "rank_assistant_replies": {
     "label": "Sıralama Yardımcısı Yanıtları",
-    "desc": "Open Assistant tarafından verilen bilgi yanıtlarını doğruluk ve okunabilirliklerine göre puanlayın.",
+    "desc": "ራስ | rasGPT tarafından verilen bilgi yanıtlarını doğruluk ve okunabilirliklerine göre puanlayın.",
     "overview": "Aşağıdaki Asistan yanıtlarını göz önünde bulundurarak, bunları en iyiden en kötüye doğru, en iyi ilk, en kötü sonuncu olacak şekilde sıralayın.",
     "unchanged_title": "Sıra Değiştirilmedi",
     "unchanged_message": "Promptların sırasını değiştirmediniz. Devam etmek istediğinizden emin misiniz?",
@@ -53,7 +53,7 @@
   },
   "rank_initial_prompts": {
     "label": "İlk İstemleri Sırala",
-    "desc": "Open Assistant tarafından verilen bilgi promptlarını doğruluk ve okunabilirliklerine göre puanlayın.",
+    "desc": "ራስ | rasGPT tarafından verilen bilgi promptlarını doğruluk ve okunabilirliklerine göre puanlayın.",
     "overview": "Aşağıdaki ilk promptlar verildiğinde, onları en iyiden en kötüye doğru, en iyi ilk, en kötü en son olacak şekilde sıralayın.",
     "unchanged_title": "Sıra Değiştirilmedi",
     "unchanged_message": "Promptların sırasını değiştirmediniz. Devam etmek istediğinizden emin misiniz?",
